@@ -1,0 +1,54 @@
+sw_volume: 5
+audio_device_state:0:My ALSA Device
+audio_device_state:1:My Local Radio discs
+audio_device_state:1:ncmpcpp
+state: pause
+current: 0
+time: 41.871000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/01 - Concerto N.1 in C major, RV 181A, I Allegro.mp3
+1:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/02 - Concerto N.1 in C major, RV 181A, II Largo.mp3
+2:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/03 - Concerto N.1 in C major, RV 181A, III Allegro.mp3
+3:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/04 - Concerto N.2 in A major, RV 345, I Allegro.mp3
+4:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/05 - Concerto N.2 in A major, RV 345, II Largo.mp3
+5:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/06 - Concerto N.2 in A major, RV 345, III Allegro.mp3
+6:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/07 - Concerto N.3 in G minor, RV 334, I Allegro non molto.mp3
+7:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/08 - Concerto N.3 in G minor, RV 334, II Largo.mp3
+8:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/09 - Concerto N.3 in G minor, RV 334, III Allegro non molto.mp3
+9:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/10 - Concerto N.4 in E major, RV 263A, I Allegro non molto.mp3
+10:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/11 - Concerto N.4 in E major, RV 263A, II Largo.mp3
+11:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/12 - Concerto N.4 in E major, RV 263A, III Allegro non molto.mp3
+12:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/13 - Concerto N.5 in A minor, RV 358, I Adagio - Presto.mp3
+13:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/14 - Concerto N.5 in A minor, RV 358, II Largo.mp3
+14:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/15 - Concerto N.5 in A minor, RV 358, III Allegro.mp3
+15:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/16 - Concerto N.6 in A major, RV 348, I Allegro.mp3
+16:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/17 - Concerto N.6 in A major, RV 348, II Largo.mp3
+17:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/18 - Concerto N.6 in A major, RV 348, III Allegro non molto.mp3
+18:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/19 - Concerto N.7 in B flat major, RV 359, I Allegro.mp3
+19:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/20 - Concerto N.7 in B flat major, RV 359, II Largo.mp3
+20:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd1/21 - Concerto N.7 in B flat major, RV 359, III Allegro.mp3
+21:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/01 - Concerto N.8 in D minor, RV 238, I Allegro.mp3
+22:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/02 - Concerto N.8 in D minor, RV 238, II Largo.mp3
+23:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/03 - Concerto N.8 in D minor, RV 238, III Allegro.mp3
+24:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/04 - Concerto N.9 in B flat major, RV 530, I Allegro.mp3
+25:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/05 - Concerto N.9 in B flat major, RV 530, II Largo e spiccato.mp3
+26:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/06 - Concerto N.9 in B flat major, RV 530, III Allegro.mp3
+27:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/07 - Concerto N.10 in G major, RV 300, I Allegro molto.mp3
+28:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/08 - Concerto N.10 in G major, RV 300, II Largo cantabile.mp3
+29:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/09 - Concerto N.10 in G major, RV 300, III Allegro.mp3
+30:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/10 - Concerto N.11 in C minor, RV 198A, I Allegro.mp3
+31:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/11 - Concerto N.11 in C minor, RV 198A, II Adagio.mp3
+32:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/12 - Concerto N.11 in C minor, RV 198A, III Allegro.mp3
+33:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/13 - Concerto N.12 in B minor, RV 391, I Allegro non molto.mp3
+34:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/14 - Concerto N.12 in B minor, RV 391, II Largo.mp3
+35:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/15 - Concerto N.12 in B minor, RV 391, III Allegro.mp3
+36:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/16 - Concerto for 2 oboes in D minor, RV 535 .mp3
+37:Academy Of St Martin In The Fields/Vivaldi, La Cetra/cd2/17 - Concerto for piccolo in C major, RV 443.mp3
+playlist_end

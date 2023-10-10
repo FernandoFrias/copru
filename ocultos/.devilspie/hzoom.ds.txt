@@ -1,0 +1,1 @@
+(if (is (window_name) "Zoom Cloud Meetings") (skip_tasklist))

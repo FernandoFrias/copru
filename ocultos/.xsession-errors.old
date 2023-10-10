@@ -1,0 +1,3477 @@
+Xsession: X session started for metal at dom dic 27 17:44:42 CST 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/metal/.Xauthority
+localuser:metal being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=metal
+dbus-update-activation-environment: setting LANGUAGE=es_MX:es
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting TEMPDIR=/tmp/user/1000
+dbus-update-activation-environment: setting HOME=/home/metal
+dbus-update-activation-environment: setting QT4_IM_MODULE=ibus
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting TMPDIR=/tmp/user/1000
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=metal
+dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
+dbus-update-activation-environment: setting TEMP=/tmp/user/1000
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_MX.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting TMP=/tmp/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/metal/.Xauthority
+dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/metal
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_IM_MODULE=ibus
+dbus-update-activation-environment: setting PWD=/home/metal
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=ibus
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 17:44:48.632: SSH authentication agent is already running
+gpg-agent[2277]: ATENCIÓN: "--write-env-file" es una opción obsoleta - no tiene efecto
+gpg-agent: ya hay un agente gpg ejecutándose - no se inicia otro
+
+(xfce4-session:2214): xfce4-session-WARNING **: 17:44:48.635: gpg-agent returned no PID in the variables
+
+(process:2366): GLib-GObject-WARNING **: 17:44:52.234: invalid (NULL) pointer instance
+
+(process:2366): GLib-GObject-CRITICAL **: 17:44:52.234: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(process:2356): ayatana-indicator-application-service-WARNING **: 17:44:52.460: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(xfce4-session:2214): xfce4-session-WARNING **: 17:44:52.522: Unable to launch "/usr/lib/notify-osd/notify-osd" (specified by autostart/notify-osd.desktop): Falló al ejecutar el proceso hijo «/usr/lib/notify-osd/notify-osd» (No existe el fichero o el directorio)
+
+(process:2366): GLib-GIO-CRITICAL **: 17:44:52.741: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 17:44:52.741: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:44:52.741: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:44:52.741: g_variant_new_string: assertion 'string != NULL' failed
+Can't bind to ldap server ldap: Invalid argument
+
+(wrapper-2.0:2335): Gtk-WARNING **: 17:44:58.104: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+"No carrier"
+error: : cannot open
+error: : cannot open
+error: : cannot open
+
+** (wrapper-2.0:2334): WARNING **: 17:45:16.606: snwatcher.vala:72: Trying to register already registered item. Reregistering new...
+
+** (wrapper-2.0:2334): WARNING **: 17:45:16.868: snwatcher.vala:72: Trying to register already registered item. Reregistering new...
+
+** (wrapper-2.0:2334): WARNING **: 17:45:18.353: snwatcher.vala:72: Trying to register already registered item. Reregistering new...
+
+** (wrapper-2.0:2334): WARNING **: 17:45:18.365: snwatcher.vala:72: Trying to register already registered item. Reregistering new...
+Falló al abrir la carpeta «/tmp/user/1000/.org.chromium.Chromium.10qDcL»: No existe el fichero o el directorio
+
+(wrapper-2.0:2334): GLib-GObject-WARNING **: 17:45:18.399: invalid (NULL) pointer instance
+
+(wrapper-2.0:2334): GLib-GObject-CRITICAL **: 17:45:18.399: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+** (wrapper-2.0:2334): WARNING **: 17:45:19.145: snwatcher.vala:72: Trying to register already registered item. Reregistering new...
+
+(process:2366): GLib-GIO-CRITICAL **: 17:45:28.714: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 17:45:28.714: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:45:28.714: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:45:28.714: g_variant_new_string: assertion 'string != NULL' failed
+
+(process:2366): GLib-GIO-CRITICAL **: 17:48:28.058: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 17:48:28.058: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:48:28.058: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:48:28.058: g_variant_new_string: assertion 'string != NULL' failed
+
+(process:2366): GLib-GIO-CRITICAL **: 17:48:38.370: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 17:48:38.370: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:48:38.370: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:48:38.370: g_variant_new_string: assertion 'string != NULL' failed
+
+(process:2366): GLib-GIO-CRITICAL **: 17:51:57.673: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 17:51:57.673: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:51:57.673: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 17:51:57.673: g_variant_new_string: assertion 'string != NULL' failed
+[3454:3454:1227/175440.934286:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+18:04:36.769 WARNING Config: mousetweaks GSettings schema not found, mousetweaks integration disabled.
+
+(process:2366): GLib-GIO-CRITICAL **: 18:16:52.376: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 18:16:52.376: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 18:16:52.376: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 18:16:52.376: g_variant_new_string: assertion 'string != NULL' failed
+
+(process:2366): GLib-GIO-CRITICAL **: 18:41:38.152: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 18:41:38.152: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 18:41:38.152: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 18:41:38.152: g_variant_new_string: assertion 'string != NULL' failed
+
+(process:2366): GLib-GIO-CRITICAL **: 18:43:35.289: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 18:43:35.289: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 18:43:35.289: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 18:43:35.289: g_variant_new_string: assertion 'string != NULL' failed
+
+(process:2366): GLib-GIO-CRITICAL **: 18:57:18.857: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 18:57:18.857: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 18:57:18.857: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 18:57:18.857: g_variant_new_string: assertion 'string != NULL' failed
+
+(evince:8923): Gtk-WARNING **: 18:59:38.505: Attempting to read the recently used resources file at '/home/metal/.local/share/recently-used.xbel', but the parser failed: Falló al abrir el archivo «/home/metal/.local/share/recently-used.xbel»: Permiso denegado.
+
+(evince:8923): Gtk-WARNING **: 18:59:39.023: Attempting to read the recently used resources file at '/home/metal/.local/share/recently-used.xbel', but the parser failed: Falló al abrir el archivo «/home/metal/.local/share/recently-used.xbel»: Permiso denegado.
+! SyncTeX Error : No file?
+
+** (evince:8923): WARNING **: 18:59:46.322: Unimplemented action: POPPLER_ACTION_JAVASCRIPT, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+
+** (evince:8923): WARNING **: 18:59:46.322: Unimplemented action: POPPLER_ACTION_JAVASCRIPT, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+
+** (evince:8923): WARNING **: 18:59:46.322: Unimplemented action: POPPLER_ACTION_JAVASCRIPT, please post a bug report in Evince issue tracker (https://gitlab.gnome.org/GNOME/evince/issues) with a testcase.
+
+(evince:8923): Gtk-WARNING **: 18:59:46.545: Attempting to store changes into '/home/metal/.local/share/recently-used.xbel', but failed: Falló al crear el archivo «/home/metal/.local/share/recently-used.xbel.68F0V0»: Permiso denegado
+
+(evince:8923): Gtk-WARNING **: 18:59:46.545: Attempting to set the permissions of '/home/metal/.local/share/recently-used.xbel', but failed: Permiso denegado
+
+(evince:8923): Gtk-WARNING **: 19:01:40.627: Attempting to store changes into '/home/metal/.local/share/recently-used.xbel', but failed: Falló al crear el archivo «/home/metal/.local/share/recently-used.xbel.X4DZV0»: Permiso denegado
+
+(evince:8923): Gtk-WARNING **: 19:01:40.627: Attempting to set the permissions of '/home/metal/.local/share/recently-used.xbel', but failed: Permiso denegado
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/object_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/object_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/object_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/column_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/column_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/column_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/computed_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/computed_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/computed_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/databaseconnected_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/databaseconnected_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/databaseconnected_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/databasedisconnected_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/databasedisconnected_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/databasedisconnected_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/domain_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/domain_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/domain_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/domains_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/domains_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/domains_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/exception_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/exception_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/exception_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/exceptions_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/exceptions_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/exceptions_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/foreignkey_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/foreignkey_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/foreignkey_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/function_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/function_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/function_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/functions_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/functions_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/functions_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/generator_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/generator_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/generator_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/generators_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/generators_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/generators_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/parameterinput_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/parameterinput_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/parameterinput_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/parameteroutput_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/parameteroutput_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/parameteroutput_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/primaryandforeignkey_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/primaryandforeignkey_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/primaryandforeignkey_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/primarykey_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/primarykey_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/primarykey_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/procedure_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/procedure_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/procedure_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/procedures_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/procedures_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/procedures_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/role_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/role_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/role_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/roles_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/roles_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/roles_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/root_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/root_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/root_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/server_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/server_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/server_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemrole_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemrole_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemrole_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemroles_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemroles_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemroles_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemtable_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemtable_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemtable_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemtables_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemtables_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/systemtables_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/table_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/table_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/table_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/tables_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/tables_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/tables_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/trigger_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/trigger_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/trigger_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/triggers_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/triggers_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/triggers_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/view_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/view_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/view_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/views_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/views_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/views_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/wxart_go_back_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/wxart_go_back_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/wxart_go_back_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/wxart_go_forward_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/wxart_go_forward_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/wxart_go_forward_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/wxart_find_16x16.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/wxart_find_16x16.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/wxart_find_16x16.bmp"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/flamerobin_32x32.png"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/flamerobin_32x32.xpm"
+19:39:48: Debug: Trying to load image file "/usr/share/flamerobin/images/flamerobin_32x32.bmp"
+
+(wrapper-2.0:2334): GdkPixbuf-CRITICAL **: 19:49:32.801: gdk_pixbuf_new_from_data: assertion 'data != NULL' failed
+
+(wrapper-2.0:2334): GdkPixbuf-CRITICAL **: 19:49:32.801: gdk_pixbuf_new_from_data: assertion 'data != NULL' failed
+
+(wrapper-2.0:2334): GdkPixbuf-CRITICAL **: 19:49:32.801: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(wrapper-2.0:2334): GdkPixbuf-CRITICAL **: 19:49:32.805: gdk_pixbuf_new_from_data: assertion 'data != NULL' failed
+
+(wrapper-2.0:2334): GdkPixbuf-CRITICAL **: 19:49:32.805: gdk_pixbuf_new_from_data: assertion 'data != NULL' failed
+
+(wrapper-2.0:2334): GdkPixbuf-CRITICAL **: 19:49:32.805: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[3454:3454:1227/195211.411404:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3454:3454:1227/195211.412066:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3454:3454:1227/200144.002286:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3454:3454:1227/200144.002779:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3454:3454:1227/201236.279323:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3454:3454:1227/201236.280580:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+
+(process:2366): GLib-GIO-CRITICAL **: 20:16:56.297: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 20:16:56.297: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 20:16:56.297: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 20:16:56.297: g_variant_new_string: assertion 'string != NULL' failed
+
+(process:2366): GLib-GIO-CRITICAL **: 20:17:05.028: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 20:17:05.028: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 20:17:05.028: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 20:17:05.028: g_variant_new_string: assertion 'string != NULL' failed
+[31mbool DBusMenuExporterDBus::AboutToShow(int)[0m: Condition failed: menu
+[31mbool DBusMenuExporterDBus::AboutToShow(int)[0m: Condition failed: menu
+[31mbool DBusMenuExporterDBus::AboutToShow(int)[0m: Condition failed: menu
+[31mbool DBusMenuExporterDBus::AboutToShow(int)[0m: Condition failed: menu
+
+(process:2366): GLib-GIO-CRITICAL **: 20:38:59.471: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 20:38:59.471: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 20:38:59.471: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 20:38:59.471: g_variant_new_string: assertion 'string != NULL' failed
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08d4c11000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08d4c11000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08d4c11000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08d4c11000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13366, MediaDecoderStateMachine #1] WARNING: Decoder=7fc8a72aa800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13366, MediaDecoderStateMachine #1] WARNING: Decoder=7fc8a72aa800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13366, MediaDecoderStateMachine #1] WARNING: Decoder=7fc8a72aa800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13366, MediaDecoderStateMachine #1] WARNING: Decoder=7fc8a72aa800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+mouse server[14063]: started on port 1978
+mouse server[14064]: [192.168.100.11] connected
+received buffer:mos  6m 4 -2mos  6m 4 -4
+data length = 6
+x=4
+y=-2
+data length = 6
+x=4
+y=-4
+received buffer:mos  8m 12 -23
+data length = 8
+x=12
+y=-23
+received buffer:mos  7m 9 -20
+data length = 7
+x=9
+y=-20
+received buffer:mos  6m 2 -4
+data length = 6
+x=2
+y=-4
+received buffer:mos  7m 5 -15
+data length = 7
+x=5
+y=-15
+received buffer:mos  7m 2 -15
+data length = 7
+x=2
+y=-15
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  8m -4 -12
+data length = 8
+x=-4
+y=-12
+received buffer:mos  7m -3 -3
+data length = 7
+x=-3
+y=-3
+received buffer:mos  7m -2 -1
+data length = 7
+x=-2
+y=-1
+received buffer:mos  7m -2 -1
+data length = 7
+x=-2
+y=-1
+received buffer:mos  6m -1 0
+data length = 6
+x=-1
+y=0
+received buffer:mos  6m -4 0
+data length = 6
+x=-4
+y=0
+received buffer:mos  6m -5 2
+data length = 6
+x=-5
+y=2
+received buffer:mos  6m -2 2
+data length = 6
+x=-2
+y=2
+received buffer:mos  6m -3 3
+data length = 6
+x=-3
+y=3
+received buffer:mos  6m -1 2
+data length = 6
+x=-1
+y=2
+received buffer:mos  6m -1 1
+data length = 6
+x=-1
+y=1
+received buffer:mos  6m -2 2
+data length = 6
+x=-2
+y=2
+received buffer:mos  6m -1 1
+data length = 6
+x=-1
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 1 1
+data length = 5
+x=1
+y=1
+received buffer:mos  5m 1 1
+data length = 5
+x=1
+y=1
+received buffer:mos  5m 2 1
+data length = 5
+x=2
+y=1
+received buffer:mos  5m 1 0
+data length = 5
+x=1
+y=0
+received buffer:mos  5m 1 1
+data length = 5
+x=1
+y=1
+received buffer:mos  5m 3 0
+data length = 5
+x=3
+y=0
+received buffer:mos  6m 2 -2
+data length = 6
+x=2
+y=-2
+received buffer:mos  6m 1 -2
+data length = 6
+x=1
+y=-2
+received buffer:mos  6m 2 -4
+data length = 6
+x=2
+y=-4
+received buffer:mos  6m 1 -1
+data length = 6
+x=1
+y=-1
+received buffer:mos  6m 2 -4
+data length = 6
+x=2
+y=-4
+received buffer:mos  6m 1 -5
+data length = 6
+x=1
+y=-5
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  6m 1 -4
+data length = 6
+x=1
+y=-4
+received buffer:mos  7m 0 -12
+data length = 7
+x=0
+y=-12
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  8m -1 -15
+data length = 8
+x=-1
+y=-15
+received buffer:mos  7m 0 -15
+data length = 7
+x=0
+y=-15
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  8m -1 -13
+data length = 8
+x=-1
+y=-13
+received buffer:mos  6m 0 -5
+data length = 6
+x=0
+y=-5
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  6m 0 -5
+data length = 6
+x=0
+y=-5
+received buffer:mos  8m -2 -12
+data length = 8
+x=-2
+y=-12
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  8m -2 -12
+data length = 8
+x=-2
+y=-12
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  8m -2 -12
+data length = 8
+x=-2
+y=-12
+received buffer:mos  6m 0 -4
+data length = 6
+x=0
+y=-4
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  6m 0 -4
+data length = 6
+x=0
+y=-4
+received buffer:mos  7m -1 -4
+data length = 7
+x=-1
+y=-4
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  6m 0 -5
+data length = 6
+x=0
+y=-5
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  7m -1 -5
+data length = 7
+x=-1
+y=-5
+received buffer:mos  8m -1 -12
+data length = 8
+x=-1
+y=-12
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  6m 1 -2mos  7m 3 -20
+data length = 6
+x=1
+y=-2
+data length = 7
+x=3
+y=-20
+received buffer:mos  7m 4 -14
+data length = 7
+x=4
+y=-14
+received buffer:mos  7m 7 -28
+data length = 7
+x=7
+y=-28
+received buffer:mos  7m 3 -14
+data length = 7
+x=3
+y=-14
+received buffer:mos  7m 3 -25
+data length = 7
+x=3
+y=-25
+received buffer:mos  7m 2 -31
+data length = 7
+x=2
+y=-31
+received buffer:mos  7m 2 -15
+data length = 7
+x=2
+y=-15
+received buffer:mos  7m 6 -27
+data length = 7
+x=6
+y=-27
+received buffer:mos  7m 5 -27
+data length = 7
+x=5
+y=-27
+received buffer:mos  7m 2 -13
+data length = 7
+x=2
+y=-13
+received buffer:mos  7m 2 -22
+data length = 7
+x=2
+y=-22
+received buffer:mos  7m 2 -17
+data length = 7
+x=2
+y=-17
+received buffer:mos  6m 1 -3
+data length = 6
+x=1
+y=-3
+received buffer:mos  7m 2 -15
+data length = 7
+x=2
+y=-15
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  7m 0 -15
+data length = 7
+x=0
+y=-15
+received buffer:mos  7m 0 -13
+data length = 7
+x=0
+y=-13
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  6m 0 -4
+data length = 6
+x=0
+y=-4
+received buffer:mos  6m 0 -4
+data length = 6
+x=0
+y=-4
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  6m 0 -4
+data length = 6
+x=0
+y=-4
+received buffer:mos  7m -1 -5
+data length = 7
+x=-1
+y=-5
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  8m -2 -12
+data length = 8
+x=-2
+y=-12
+received buffer:mos  7m -1 -5
+data length = 7
+x=-1
+y=-5
+received buffer:mos  7m -1 -2
+data length = 7
+x=-1
+y=-2
+received buffer:mos  7m -2 -3
+data length = 7
+x=-2
+y=-3
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  7m -2 -3
+data length = 7
+x=-2
+y=-3
+received buffer:mos  7m -2 -2
+data length = 7
+x=-2
+y=-2
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  7m -2 -2
+data length = 7
+x=-2
+y=-2
+received buffer:mos  7m -3 -2
+data length = 7
+x=-3
+y=-2
+received buffer:mos  7m -2 -1
+data length = 7
+x=-2
+y=-1
+received buffer:mos  7m -4 -2
+data length = 7
+x=-4
+y=-2
+received buffer:mos  8m -12 -6
+data length = 8
+x=-12
+y=-6
+received buffer:mos  7m -2 -1
+data length = 7
+x=-2
+y=-1
+received buffer:mos  7m -4 -3
+data length = 7
+x=-4
+y=-3
+received buffer:mos  7m -2 -1
+data length = 7
+x=-2
+y=-1
+received buffer:mos  7m -5 -3
+data length = 7
+x=-5
+y=-3
+received buffer:mos  7m -4 -4
+data length = 7
+x=-4
+y=-4
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  7m -4 -3
+data length = 7
+x=-4
+y=-3
+received buffer:mos  7m -4 -3
+data length = 7
+x=-4
+y=-3
+received buffer:mos  7m -2 -1
+data length = 7
+x=-2
+y=-1
+received buffer:mos  7m -3 -2
+data length = 7
+x=-3
+y=-2
+received buffer:mos  7m -3 -2
+data length = 7
+x=-3
+y=-2
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  7m -2 -1
+data length = 7
+x=-2
+y=-1
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  6m 2 -3
+data length = 6
+x=2
+y=-3
+received buffer:mos  6m 4 -2
+data length = 6
+x=4
+y=-2
+received buffer:mos  8m 18 -15
+data length = 8
+x=18
+y=-15
+received buffer:mos  8m 15 -19
+data length = 8
+x=15
+y=-19
+received buffer:mos  6m 3 -4
+data length = 6
+x=3
+y=-4
+received buffer:mos  7m 8 -20
+data length = 7
+x=8
+y=-20
+received buffer:mos  7m 6 -27
+data length = 7
+x=6
+y=-27
+received buffer:mos  7m 2 -14
+data length = 7
+x=2
+y=-14
+received buffer:mos  7m 1 -23
+data length = 7
+x=1
+y=-23
+received buffer:mos  8m -1 -18
+data length = 8
+x=-1
+y=-18
+received buffer:mos  6m 0 -4
+data length = 6
+x=0
+y=-4
+received buffer:mos  8m -5 -18
+data length = 8
+x=-5
+y=-18
+received buffer:mos  7m -2 -3
+data length = 7
+x=-2
+y=-3
+received buffer:mos  8m -7 -12
+data length = 8
+x=-7
+y=-12
+received buffer:mos  7m -2 -2
+data length = 7
+x=-2
+y=-2
+received buffer:mos  6m 0 -1
+data length = 6
+x=0
+y=-1
+received buffer:mos  7m -2 -2
+data length = 7
+x=-2
+y=-2
+received buffer:mos  7m -3 -1
+data length = 7
+x=-3
+y=-1
+received buffer:mos  6m -1 0
+data length = 6
+x=-1
+y=0
+received buffer:mos  6m -3 1
+data length = 6
+x=-3
+y=1
+received buffer:mos  6m -3 3
+data length = 6
+x=-3
+y=3
+received buffer:mos  6m -1 2
+data length = 6
+x=-1
+y=2
+received buffer:mos  6m -3 5
+data length = 6
+x=-3
+y=5
+received buffer:mos  6m -1 2
+data length = 6
+x=-1
+y=2
+received buffer:mos  6m -2 3
+data length = 6
+x=-2
+y=3
+received buffer:mos  6m -3 4
+data length = 6
+x=-3
+y=4
+received buffer:mos  6m -1 2
+data length = 6
+x=-1
+y=2
+received buffer:mos  6m -1 4
+data length = 6
+x=-1
+y=4
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  5m 1 2
+data length = 5
+x=1
+y=2
+received buffer:mos  5m 3 4
+data length = 5
+x=3
+y=4
+received buffer:mos  5m 2 2
+data length = 5
+x=2
+y=2
+received buffer:mos  5m 4 5
+data length = 5
+x=4
+y=5
+received buffer:mos  5m 5 5
+data length = 5
+x=5
+y=5
+received buffer:mos  5m 3 3
+data length = 5
+x=3
+y=3
+received buffer:mos  5m 5 5
+data length = 5
+x=5
+y=5
+received buffer:mos  6m 16 8
+data length = 6
+x=16
+y=8
+received buffer:mos  5m 5 2
+data length = 5
+x=5
+y=2
+received buffer:mos  6m 25 4
+data length = 6
+x=25
+y=4
+received buffer:mos  6m 25 4
+data length = 6
+x=25
+y=4
+received buffer:mos  6m 13 2
+data length = 6
+x=13
+y=2
+received buffer:mos  6m 22 5
+data length = 6
+x=22
+y=5
+received buffer:mos  6m 15 6
+data length = 6
+x=15
+y=6
+received buffer:mos  5m 3 2
+data length = 5
+x=3
+y=2
+received buffer:mos  5m 4 4
+data length = 5
+x=4
+y=4
+received buffer:mos  5m 2 3
+data length = 5
+x=2
+y=3
+received buffer:mos  6m 3 15
+data length = 6
+x=3
+y=15
+received buffer:mos  7m -4 17
+data length = 7
+x=-4
+y=17
+received buffer:mos  6m -2 4
+data length = 6
+x=-2
+y=4
+received buffer:mos  8m -12 19
+data length = 8
+x=-12
+y=19
+received buffer:mos  8m -12 30
+data length = 8
+x=-12
+y=30
+received buffer:mos  7m -5 16
+data length = 7
+x=-5
+y=16
+received buffer:mos  8m -16 31
+data length = 8
+x=-16
+y=31
+received buffer:mos  8m -18 33
+data length = 8
+x=-18
+y=33
+received buffer:mos  7m -8 16
+data length = 7
+x=-8
+y=16
+received buffer:mos  8m -17 25
+data length = 8
+x=-17
+y=25
+received buffer:mos  6m -3 5
+data length = 6
+x=-3
+y=5
+received buffer:mos  8m -12 16
+data length = 8
+x=-12
+y=16
+received buffer:mos  7m -7 12
+data length = 7
+x=-7
+y=12
+received buffer:mos  6m -1 2
+data length = 6
+x=-1
+y=2
+received buffer:mos  6m -3 3
+data length = 6
+x=-3
+y=3
+received buffer:mos  6m -2 2
+data length = 6
+x=-2
+y=2
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  7m -1 -2
+data length = 7
+x=-1
+y=-2
+received buffer:mos  7m -1 -3
+data length = 7
+x=-1
+y=-3
+received buffer:mos  8m -3 -16
+data length = 8
+x=-3
+y=-16
+received buffer:mos  8m -3 -23
+data length = 8
+x=-3
+y=-23
+received buffer:mos  8m -2 -14
+data length = 8
+x=-2
+y=-14
+received buffer:mos  8m -3 -27
+data length = 8
+x=-3
+y=-27
+received buffer:mos  8m -4 -24
+data length = 8
+x=-4
+y=-24
+received buffer:mos  8m -1 -13
+data length = 8
+x=-1
+y=-13
+received buffer:mos  8m -2 -28
+data length = 8
+x=-2
+y=-28
+received buffer:mos  8m -1 -13
+data length = 8
+x=-1
+y=-13
+received buffer:mos  8m -5 -49
+data length = 8
+x=-5
+y=-49
+received buffer:mos  8m -3 -18
+data length = 8
+x=-3
+y=-18
+received buffer:mos  8m -3 -16
+data length = 8
+x=-3
+y=-16
+received buffer:mos  7m -1 -3
+data length = 7
+x=-1
+y=-3
+received buffer:mos  7m -2 -5
+data length = 7
+x=-2
+y=-5
+received buffer:mos  7m -2 -3
+data length = 7
+x=-2
+y=-3
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  7m -2 -2
+data length = 7
+x=-2
+y=-2
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  7m -2 -2
+data length = 7
+x=-2
+y=-2
+received buffer:mos  7m -2 -3
+data length = 7
+x=-2
+y=-3
+received buffer:mos  6m 0 -1
+data length = 6
+x=0
+y=-1
+received buffer:mos  7m -2 -2
+data length = 7
+x=-2
+y=-2
+received buffer:mos  7m -1 -2
+data length = 7
+x=-1
+y=-2
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  6m -1 1
+data length = 6
+x=-1
+y=1
+received buffer:mos  6m -1 2
+data length = 6
+x=-1
+y=2
+received buffer:mos  6m -1 3
+data length = 6
+x=-1
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  6m -1 3
+data length = 6
+x=-1
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  5m 1 1
+data length = 5
+x=1
+y=1
+received buffer:mos  6m -3 2mos  6m -5 3mos  8m -28 17mos  8m -28 25
+data length = 6
+x=-3
+y=2
+data length = 6
+x=-5
+y=3
+data length = 8
+x=-28
+y=17
+data length = 8
+x=-28
+y=25
+received buffer:mos  8m -16 15mos  8m -33 31
+data length = 8
+x=-16
+y=15
+data length = 8
+x=-33
+y=31
+received buffer:mos  8m -33 29
+data length = 8
+x=-33
+y=29
+received buffer:mos  8m -16 15
+data length = 8
+x=-16
+y=15
+received buffer:mos  8m -28 33
+data length = 8
+x=-28
+y=33
+received buffer:mos  8m -22 28
+data length = 8
+x=-22
+y=28
+received buffer:mos  7m -7 13
+data length = 7
+x=-7
+y=13
+received buffer:mos  8m -13 24
+data length = 8
+x=-13
+y=24
+received buffer:mos  6m -3 5mos  7m -6 18mos  7m -1 15mos  5m 1 4mos  6m 2 14
+data length = 6
+x=-3
+y=5
+data length = 7
+x=-6
+y=18
+data length = 7
+x=-1
+y=15
+data length = 5
+x=1
+y=4
+data length = 6
+x=2
+y=14
+received buffer:mos  6m 3 16mos  5m 1 4
+data length = 6
+x=3
+y=16
+data length = 5
+x=1
+y=4
+received buffer:mos  6m 7 16
+data length = 6
+x=7
+y=16
+received buffer:mos  5m 2 3
+data length = 5
+x=2
+y=3
+received buffer:mos  5m 4 5
+data length = 5
+x=4
+y=5
+received buffer:mos  5m 3 3
+data length = 5
+x=3
+y=3
+received buffer:mos  5m 2 1
+data length = 5
+x=2
+y=1
+received buffer:mos  6m 12 5
+data length = 6
+x=12
+y=5
+received buffer:mos  6m 14 1mos  6m 4 -1mos  7m 19 -8mos  8m 18 -11mos  6m 4 -3
+data length = 6
+x=14
+y=1
+data length = 6
+x=4
+y=-1
+data length = 7
+x=19
+y=-8
+data length = 8
+x=18
+y=-11
+data length = 6
+x=4
+y=-3
+received buffer:mos  8m 13 -16mos  8m 11 -15
+data length = 8
+x=13
+y=-16
+data length = 8
+x=11
+y=-15
+received buffer:mos  6m 3 -3
+data length = 6
+x=3
+y=-3
+received buffer:mos  7m 9 -14
+data length = 7
+x=9
+y=-14
+received buffer:mos  6m 1 -3
+data length = 6
+x=1
+y=-3
+received buffer:mos  6m 1 -5
+data length = 6
+x=1
+y=-5
+received buffer:mos  6m 0 -5
+data length = 6
+x=0
+y=-5
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  7m -1 -4mos  7m -1 -3mos  6m 0 -1mos  7m -2 -3mos  7m -1 -4
+data length = 7
+x=-1
+y=-4
+data length = 7
+x=-1
+y=-3
+data length = 6
+x=0
+y=-1
+data length = 7
+x=-2
+y=-3
+data length = 7
+x=-1
+y=-4
+received buffer:mos  7m -1 -2mos  7m -1 -4
+data length = 7
+x=-1
+y=-2
+data length = 7
+x=-1
+y=-4
+received buffer:mos  7m -1 -2
+data length = 7
+x=-1
+y=-2
+received buffer:mos  8m -4 -13
+data length = 8
+x=-4
+y=-13
+received buffer:mos  8m -2 -14
+data length = 8
+x=-2
+y=-14
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  8m -4 -13
+data length = 8
+x=-4
+y=-13
+received buffer:mos  8m -4 -12
+data length = 8
+x=-4
+y=-12
+received buffer:mos  6m 0 -2mos  7m 0 -12mos  8m -1 -13mos  6m 0 -3mos  8m -2 -12mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+data length = 7
+x=0
+y=-12
+data length = 8
+x=-1
+y=-13
+data length = 6
+x=0
+y=-3
+data length = 8
+x=-2
+y=-12
+data length = 6
+x=0
+y=-2
+received buffer:mos  6m 0 -4mos  6m 0 -4
+data length = 6
+x=0
+y=-4
+data length = 6
+x=0
+y=-4
+received buffer:mos  6m 0 -1
+data length = 6
+x=0
+y=-1
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  6m 0 -2
+data length = 6
+x=0
+y=-2
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  6m 0 -1
+data length = 6
+x=0
+y=-1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  6m -1 5
+data length = 6
+x=-1
+y=5
+received buffer:mos  7m -2 16
+data length = 7
+x=-2
+y=16
+received buffer:mos  5m 0 4
+data length = 5
+x=0
+y=4
+received buffer:mos  7m -2 19
+data length = 7
+x=-2
+y=19
+received buffer:mos  7m -2 22
+data length = 7
+x=-2
+y=22
+received buffer:mos  7m -1 12
+data length = 7
+x=-1
+y=12
+received buffer:mos  7m -1 26mos  7m -1 12mos  7m -1 20mos  7m -1 20mos  5m 0 5
+data length = 7
+x=-1
+y=26
+data length = 7
+x=-1
+y=12
+data length = 7
+x=-1
+y=20
+data length = 7
+x=-1
+y=20
+data length = 5
+x=0
+y=5
+received buffer:mos  6m 0 22mos  7m -1 18
+data length = 6
+x=0
+y=22
+data length = 7
+x=-1
+y=18
+received buffer:mos  5m 0 4
+data length = 5
+x=0
+y=4
+received buffer:mos  6m 0 16
+data length = 6
+x=0
+y=16
+received buffer:mos  6m 0 19
+data length = 6
+x=0
+y=19
+received buffer:mos  5m 0 5
+data length = 5
+x=0
+y=5
+received buffer:mos  6m 0 22
+data length = 6
+x=0
+y=22
+received buffer:mos  5m 0 4
+data length = 5
+x=0
+y=4
+received buffer:mos  6m 0 15mos  6m 0 13mos  5m 1 3mos  6m 2 13mos  6m 1 13mos  5m 1 3
+data length = 6
+x=0
+y=15
+data length = 6
+x=0
+y=13
+data length = 5
+x=1
+y=3
+data length = 6
+x=2
+y=13
+data length = 6
+x=1
+y=13
+data length = 5
+x=1
+y=3
+received buffer:mos  6m 1 13mos  5m 0 5
+data length = 6
+x=1
+y=13
+data length = 5
+x=0
+y=5
+received buffer:mos  5m 1 3
+data length = 5
+x=1
+y=3
+received buffer:mos  5m 1 5
+data length = 5
+x=1
+y=5
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 1 5
+data length = 5
+x=1
+y=5
+received buffer:mos  5m 1 5
+data length = 5
+x=1
+y=5
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 5
+data length = 5
+x=0
+y=5
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  5m 1 2
+data length = 5
+x=1
+y=2
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 1 3
+data length = 5
+x=1
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 1 3
+data length = 5
+x=1
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  5m 1 5
+data length = 5
+x=1
+y=5
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 1 2
+data length = 5
+x=1
+y=2
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 1 2
+data length = 5
+x=1
+y=2
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 4
+data length = 5
+x=0
+y=4
+received buffer:mos  5m 0 4
+data length = 5
+x=0
+y=4
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 5
+data length = 5
+x=0
+y=5
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 1 5
+data length = 5
+x=1
+y=5
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 5
+data length = 5
+x=0
+y=5
+received buffer:mos  5m 1 5
+data length = 5
+x=1
+y=5
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 4
+data length = 5
+x=0
+y=4
+received buffer:mos  5m 0 4
+data length = 5
+x=0
+y=4
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 4
+data length = 5
+x=0
+y=4
+received buffer:mos  5m 1 2
+data length = 5
+x=1
+y=2
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 3
+data length = 5
+x=0
+y=3
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 2
+data length = 5
+x=0
+y=2
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  5m 1 2
+data length = 5
+x=1
+y=2
+received buffer:mos  5m 1 1
+data length = 5
+x=1
+y=1
+received buffer:mos  5m 0 0mos  7m 0 -14
+data length = 5
+x=0
+y=0
+data length = 7
+x=0
+y=-14
+received buffer:mos  6m 0 -5
+data length = 6
+x=0
+y=-5
+received buffer:mos  7m 2 -18
+data length = 7
+x=2
+y=-18
+received buffer:mos  7m 4 -18
+data length = 7
+x=4
+y=-18
+received buffer:mos  6m 1 -4
+data length = 6
+x=1
+y=-4
+received buffer:mos  7m 3 -20
+data length = 7
+x=3
+y=-20
+received buffer:mos  6m 1 -4
+data length = 6
+x=1
+y=-4
+received buffer:mos  7m 3 -16
+data length = 7
+x=3
+y=-16
+received buffer:mos  7m 2 -15
+data length = 7
+x=2
+y=-15
+received buffer:mos  6m 1 -3
+data length = 6
+x=1
+y=-3
+received buffer:mos  7m 5 -17
+data length = 7
+x=5
+y=-17
+received buffer:mos  7m 3 -19
+data length = 7
+x=3
+y=-19
+received buffer:mos  6m 1 -4
+data length = 6
+x=1
+y=-4
+received buffer:mos  7m 5 -17
+data length = 7
+x=5
+y=-17
+received buffer:mos  6m 2 -4
+data length = 6
+x=2
+y=-4
+received buffer:mos  7m 4 -19
+data length = 7
+x=4
+y=-19
+received buffer:mos  7m 4 -20
+data length = 7
+x=4
+y=-20
+received buffer:mos  6m 1 -4
+data length = 6
+x=1
+y=-4
+received buffer:mos  7m 4 -18
+data length = 7
+x=4
+y=-18
+received buffer:mos  7m 4 -16
+data length = 7
+x=4
+y=-16
+received buffer:mos  6m 1 -4
+data length = 6
+x=1
+y=-4
+received buffer:mos  7m 4 -18
+data length = 7
+x=4
+y=-18
+received buffer:mos  7m 2 -22
+data length = 7
+x=2
+y=-22
+received buffer:mos  6m 1 -4
+data length = 6
+x=1
+y=-4
+received buffer:mos  7m 2 -19
+data length = 7
+x=2
+y=-19
+received buffer:mos  6m 1 -4
+data length = 6
+x=1
+y=-4
+received buffer:mos  7m 2 -20
+data length = 7
+x=2
+y=-20
+received buffer:mos  7m 2 -23
+data length = 7
+x=2
+y=-23
+received buffer:mos  6m 0 -5
+data length = 6
+x=0
+y=-5
+received buffer:mos  7m 1 -16
+data length = 7
+x=1
+y=-16
+received buffer:mos  7m 0 -15
+data length = 7
+x=0
+y=-15
+received buffer:mos  6m 0 -3
+data length = 6
+x=0
+y=-3
+received buffer:mos  8m -1 -16
+data length = 8
+x=-1
+y=-16
+received buffer:mos  8m -1 -17
+data length = 8
+x=-1
+y=-17
+received buffer:mos  7m -1 -4
+data length = 7
+x=-1
+y=-4
+received buffer:mos  8m -4 -14
+data length = 8
+x=-4
+y=-14
+received buffer:mos  7m -1 -2
+data length = 7
+x=-1
+y=-2
+received buffer:mos  7m -3 -5
+data length = 7
+x=-3
+y=-5
+received buffer:mos  7m -4 -5
+data length = 7
+x=-4
+y=-5
+received buffer:mos  7m -3 -2
+data length = 7
+x=-3
+y=-2
+received buffer:mos  8m -14 -9
+data length = 8
+x=-14
+y=-9
+received buffer:mos  8m -14 -8
+data length = 8
+x=-14
+y=-8
+received buffer:mos  7m -3 -1
+data length = 7
+x=-3
+y=-1
+received buffer:mos  8m -14 -5
+data length = 8
+x=-14
+y=-5
+received buffer:mos  7m -5 -2
+data length = 7
+x=-5
+y=-2
+received buffer:mos  7m -3 -1
+data length = 7
+x=-3
+y=-1
+received buffer:mos  8m -16 -2
+data length = 8
+x=-16
+y=-2
+received buffer:mos  6m -4 1
+data length = 6
+x=-4
+y=1
+received buffer:mos  7m -17 4
+data length = 7
+x=-17
+y=4
+received buffer:mos  7m -17 8
+data length = 7
+x=-17
+y=8
+received buffer:mos  6m -4 3
+data length = 6
+x=-4
+y=3
+received buffer:mos  7m -17 9
+data length = 7
+x=-17
+y=9
+received buffer:mos  8m -16 11
+data length = 8
+x=-16
+y=11
+received buffer:mos  6m -4 3
+data length = 6
+x=-4
+y=3
+received buffer:mos  8m -16 12
+data length = 8
+x=-16
+y=12
+received buffer:mos  8m -13 15
+data length = 8
+x=-13
+y=15
+received buffer:mos  6m -2 4
+data length = 6
+x=-2
+y=4
+received buffer:mos  8m -11 16
+data length = 8
+x=-11
+y=16
+received buffer:mos  6m -2 4
+data length = 6
+x=-2
+y=4
+received buffer:mos  6m -5 5
+data length = 6
+x=-5
+y=5
+received buffer:mos  7m -8 13
+data length = 7
+x=-8
+y=13
+received buffer:mos  6m -1 3
+data length = 6
+x=-1
+y=3
+received buffer:mos  7m -5 15
+data length = 7
+x=-5
+y=15
+received buffer:mos  7m -6 15
+data length = 7
+x=-6
+y=15
+received buffer:mos  6m -1 3
+data length = 6
+x=-1
+y=3
+received buffer:mos  6m -1 5
+data length = 6
+x=-1
+y=5
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  5m 1 1
+data length = 5
+x=1
+y=1
+received buffer:mos  5m 4 2
+data length = 5
+x=4
+y=2
+received buffer:mos  5m 2 1
+data length = 5
+x=2
+y=1
+received buffer:mos  6m 17 2
+data length = 6
+x=17
+y=2
+received buffer:mos  6m 29 4
+data length = 6
+x=29
+y=4
+received buffer:mos  6m 17 1
+data length = 6
+x=17
+y=1
+received buffer:mos  6m 38 0
+data length = 6
+x=38
+y=0
+received buffer:mos  6m 42 0
+data length = 6
+x=42
+y=0
+received buffer:mos  7m 23 -1
+data length = 7
+x=23
+y=-1
+received buffer:mos  6m 46 0
+data length = 6
+x=46
+y=0
+received buffer:mos  6m 39 1
+data length = 6
+x=39
+y=1
+received buffer:mos  6m 16 1
+data length = 6
+x=16
+y=1
+received buffer:mos  6m 27 5
+data length = 6
+x=27
+y=5
+received buffer:mos  5m 5 2
+data length = 5
+x=5
+y=2
+received buffer:mos  5m 5 3
+data length = 5
+x=5
+y=3
+received buffer:mos  5m 2 3
+data length = 5
+x=2
+y=3
+received buffer:mos  5m 1 3
+data length = 5
+x=1
+y=3
+received buffer:mos  7m -4 16
+data length = 7
+x=-4
+y=16
+received buffer:mos  7m -9 15
+data length = 7
+x=-9
+y=15
+received buffer:mos  6m -3 3
+data length = 6
+x=-3
+y=3
+received buffer:mos  8m -17 12
+data length = 8
+x=-17
+y=12
+received buffer:mos  7m -23 8
+data length = 7
+x=-23
+y=8
+received buffer:mos  7m -13 3
+data length = 7
+x=-13
+y=3
+received buffer:mos  7m -26 5
+data length = 7
+x=-26
+y=5
+received buffer:mos  7m -13 2
+data length = 7
+x=-13
+y=2
+received buffer:mos  8m -29 -1
+data length = 8
+x=-29
+y=-1
+received buffer:mos  8m -29 -6
+data length = 8
+x=-29
+y=-6
+received buffer:mos  8m -15 -4
+data length = 8
+x=-15
+y=-4
+received buffer:mos  9m -30 -11
+data length = 9
+x=-30
+y=-11
+received buffer:mos  9m -27 -14
+data length = 9
+x=-27
+y=-14
+received buffer:mos  8m -13 -9
+data length = 8
+x=-13
+y=-9
+received buffer:mos  9m -23 -19
+data length = 9
+x=-23
+y=-19
+received buffer:mos  9m -19 -19
+data length = 9
+x=-19
+y=-19
+received buffer:mos  7m -4 -4
+data length = 7
+x=-4
+y=-4
+received buffer:mos  9m -14 -23
+data length = 9
+x=-14
+y=-23
+received buffer:mos  8m -4 -13
+data length = 8
+x=-4
+y=-13
+received buffer:mos  8m -7 -22
+data length = 8
+x=-7
+y=-22
+received buffer:mos  8m -5 -17
+data length = 8
+x=-5
+y=-17
+received buffer:mos  6m 0 -4
+data length = 6
+x=0
+y=-4
+received buffer:mos  7m 1 -24
+data length = 7
+x=1
+y=-24
+received buffer:mos  7m 6 -24
+data length = 7
+x=6
+y=-24
+received buffer:mos  6m 2 -5
+data length = 6
+x=2
+y=-5
+received buffer:mos  7m 9 -18
+data length = 7
+x=9
+y=-18
+received buffer:mos  7m 9 -16
+data length = 7
+x=9
+y=-16
+received buffer:mos  6m 2 -4
+data length = 6
+x=2
+y=-4
+received buffer:mos  8m 11 -16
+data length = 8
+x=11
+y=-16
+received buffer:mos  6m 3 -3
+data length = 6
+x=3
+y=-3
+received buffer:mos  7m 14 -8
+data length = 7
+x=14
+y=-8
+received buffer:mos  7m 15 -7
+data length = 7
+x=15
+y=-7
+received buffer:mos  6m 4 -2
+data length = 6
+x=4
+y=-2
+received buffer:mos  7m 14 -4
+data length = 7
+x=14
+y=-4
+received buffer:mos  7m 14 -1
+data length = 7
+x=14
+y=-1
+received buffer:mos  5m 4 0
+data length = 5
+x=4
+y=0
+received buffer:mos  6m 13 0
+data length = 6
+x=13
+y=0
+received buffer:mos  6m 13 3
+data length = 6
+x=13
+y=3
+received buffer:mos  5m 3 2
+data length = 5
+x=3
+y=2
+received buffer:mos  6m 12 9
+data length = 6
+x=12
+y=9
+received buffer:mos  5m 3 3
+data length = 5
+x=3
+y=3
+received buffer:mos  7m 12 14
+data length = 7
+x=12
+y=14
+received buffer:mos  6m 9 13
+data length = 6
+x=9
+y=13
+received buffer:mos  5m 2 3
+data length = 5
+x=2
+y=3
+received buffer:mos  6m 6 13
+data length = 6
+x=6
+y=13
+received buffer:mos  6m 6 16
+data length = 6
+x=6
+y=16
+received buffer:mos  6m 3 13
+data length = 6
+x=3
+y=13
+received buffer:mos  6m 2 27
+data length = 6
+x=2
+y=27
+received buffer:mos  7m -1 20
+data length = 7
+x=-1
+y=20
+received buffer:mos  5m 0 5
+data length = 5
+x=0
+y=5
+received buffer:mos  7m -3 23
+data length = 7
+x=-3
+y=23
+received buffer:mos  6m -2 5
+data length = 6
+x=-2
+y=5
+received buffer:mos  7m -9 19
+data length = 7
+x=-9
+y=19
+received buffer:mos  8m -14 15
+data length = 8
+x=-14
+y=15
+received buffer:mos  6m -3 3
+data length = 6
+x=-3
+y=3
+received buffer:mos  8m -14 12
+data length = 8
+x=-14
+y=12
+received buffer:mos  7m -20 9
+data length = 7
+x=-20
+y=9
+received buffer:mos  7m -12 4
+data length = 7
+x=-12
+y=4
+received buffer:mos  7m -24 8
+data length = 7
+x=-24
+y=8
+received buffer:mos  7m -20 6
+data length = 7
+x=-20
+y=6
+received buffer:mos  6m -4 2
+data length = 6
+x=-4
+y=2
+received buffer:mos  7m -17 9
+data length = 7
+x=-17
+y=9
+received buffer:mos  8m -13 11
+data length = 8
+x=-13
+y=11
+received buffer:mos  6m -3 3
+data length = 6
+x=-3
+y=3
+received buffer:mos  8m -12 13
+data length = 8
+x=-12
+y=13
+received buffer:mos  6m -2 4
+data length = 6
+x=-2
+y=4
+received buffer:mos  7m -7 14
+data length = 7
+x=-7
+y=14
+received buffer:mos  7m -1 15
+data length = 7
+x=-1
+y=15
+received buffer:mos  5m 1 4
+data length = 5
+x=1
+y=4
+received buffer:mos  6m 7 13
+data length = 6
+x=7
+y=13
+received buffer:mos  5m 5 5
+data length = 5
+x=5
+y=5
+received buffer:mos  5m 3 2
+data length = 5
+x=3
+y=2
+received buffer:mos  6m 13 6
+data length = 6
+x=13
+y=6
+received buffer:mos  5m 5 2
+data length = 5
+x=5
+y=2
+received buffer:mos  6m 23 6
+data length = 6
+x=23
+y=6
+received buffer:mos  7m 27 -1
+data length = 7
+x=27
+y=-1
+received buffer:mos  7m 14 -2
+data length = 7
+x=14
+y=-2
+received buffer:mos  7m 29 -8
+data length = 7
+x=29
+y=-8
+received buffer:mos  8m 25 -17
+data length = 8
+x=25
+y=-17
+received buffer:mos  6m 5 -5
+data length = 6
+x=5
+y=-5
+received buffer:mos  8m 17 -22
+data length = 8
+x=17
+y=-22
+received buffer:mos  8m 11 -25
+data length = 8
+x=11
+y=-25
+received buffer:mos  7m 4 -14
+data length = 7
+x=4
+y=-14
+received buffer:mos  7m 4 -29
+data length = 7
+x=4
+y=-29
+received buffer:mos  8m -1 -13
+data length = 8
+x=-1
+y=-13
+received buffer:mos  8m -7 -24
+data length = 8
+x=-7
+y=-24
+received buffer:mos  9m -12 -24
+data length = 9
+x=-12
+y=-24
+received buffer:mos  7m -3 -5
+data length = 7
+x=-3
+y=-5
+received buffer:mos  9m -12 -16
+data length = 9
+x=-12
+y=-16
+received buffer:mos  9m -17 -11
+data length = 9
+x=-17
+y=-11
+received buffer:mos  7m -5 -2
+data length = 7
+x=-5
+y=-2
+received buffer:mos  8m -23 -3
+data length = 8
+x=-23
+y=-3
+received buffer:mos  7m -24 1
+data length = 7
+x=-24
+y=1
+received buffer:mos  6m -5 1
+data length = 6
+x=-5
+y=1
+received buffer:mos  8m -18 13
+data length = 8
+x=-18
+y=13
+received buffer:mos  6m -4 5
+data length = 6
+x=-4
+y=5
+received buffer:mos  8m -13 19
+data length = 8
+x=-13
+y=19
+received buffer:mos  7m -5 17
+data length = 7
+x=-5
+y=17
+received buffer:mos  5m 0 4
+data length = 5
+x=0
+y=4
+received buffer:mos  6m 4 17
+data length = 6
+x=4
+y=17
+received buffer:mos  6m 9 16
+data length = 6
+x=9
+y=16
+received buffer:mos  5m 3 4
+data length = 5
+x=3
+y=4
+received buffer:mos  7m 19 11
+data length = 7
+x=19
+y=11
+received buffer:mos  6m 24 5
+data length = 6
+x=24
+y=5
+received buffer:mos  6m 13 2
+data length = 6
+x=13
+y=2
+received buffer:mos  7m 24 -1
+data length = 7
+x=24
+y=-1
+received buffer:mos  6m 5 -1
+data length = 6
+x=5
+y=-1
+received buffer:mos  8m 19 -15
+data length = 8
+x=19
+y=-15
+received buffer:mos  8m 14 -19
+data length = 8
+x=14
+y=-19
+received buffer:mos  6m 2 -5
+data length = 6
+x=2
+y=-5
+received buffer:mos  7m 6 -25
+data length = 7
+x=6
+y=-25
+received buffer:mos  7m 3 -25
+data length = 7
+x=3
+y=-25
+received buffer:mos  6m 0 -5
+data length = 6
+x=0
+y=-5
+received buffer:mos  8m -5 -14
+data length = 8
+x=-5
+y=-14
+received buffer:mos  7m -4 -4
+data length = 7
+x=-4
+y=-4
+received buffer:mos  7m -2 -1
+data length = 7
+x=-2
+y=-1
+received buffer:mos  8m -12 -4
+data length = 8
+x=-12
+y=-4
+received buffer:mos  8m -16 -3
+data length = 8
+x=-16
+y=-3
+received buffer:mos  6m -5 0
+data length = 6
+x=-5
+y=0
+received buffer:mos  7m -23 4
+data length = 7
+x=-23
+y=4
+received buffer:mos  6m -5 3
+data length = 6
+x=-5
+y=3
+received buffer:mos  8m -19 12
+data length = 8
+x=-19
+y=12
+received buffer:mos  8m -15 17
+data length = 8
+x=-15
+y=17
+received buffer:mos  6m -3 4
+data length = 6
+x=-3
+y=4
+received buffer:mos  7m -7 16
+data length = 7
+x=-7
+y=16
+received buffer:mos  7m -1 13
+data length = 7
+x=-1
+y=13
+received buffer:mos  5m 1 3
+data length = 5
+x=1
+y=3
+received buffer:mos  7m 12 12
+data length = 7
+x=12
+y=12
+received buffer:mos  7m 23 12
+data length = 7
+x=23
+y=12
+received buffer:mos  6m 15 5
+data length = 6
+x=15
+y=5
+received buffer:mos  6m 31 7
+data length = 6
+x=31
+y=7
+received buffer:mos  6m 17 1
+data length = 6
+x=17
+y=1
+received buffer:mos  7m 37 -1
+data length = 7
+x=37
+y=-1
+received buffer:mos  7m 30 -2
+data length = 7
+x=30
+y=-2
+received buffer:mos  5m 5 0
+data length = 5
+x=5
+y=0
+received buffer:mos  5m 5 0
+data length = 5
+x=5
+y=0
+received buffer:mos  5m 1 1
+data length = 5
+x=1
+y=1
+received buffer:mos  5m 0 1
+data length = 5
+x=0
+y=1
+received buffer:mos  7m -4 13
+data length = 7
+x=-4
+y=13
+received buffer:mos  8m -15 14
+data length = 8
+x=-15
+y=14
+received buffer:mos  6m -4 3
+data length = 6
+x=-4
+y=3
+received buffer:mos  7m -20 8
+data length = 7
+x=-20
+y=8
+received buffer:mos  6m -4 2
+data length = 6
+x=-4
+y=2
+received buffer:mos  7m -19 3
+data length = 7
+x=-19
+y=3
+received buffer:mos  7m -16 0
+data length = 7
+x=-16
+y=0
+received buffer:mos  6m -3 0
+data length = 6
+x=-3
+y=0
+received buffer:mos  8m -13 -8
+data length = 8
+x=-13
+y=-8
+received buffer:mos  9m -12 -12
+data length = 9
+x=-12
+y=-12
+received buffer:mos  7m -2 -4
+data length = 7
+x=-2
+y=-4
+received buffer:mos  8m -6 -22
+data length = 8
+x=-6
+y=-22
+received buffer:mos  8m -3 -12
+data length = 8
+x=-3
+y=-12
+received buffer:mos  8m -2 -22
+data length = 8
+x=-2
+y=-22
+received buffer:mos  7m 3 -25
+data length = 7
+x=3
+y=-25
+received buffer:mos  7m 3 -12
+data length = 7
+x=3
+y=-12
+received buffer:mos  8m 12 -19
+data length = 8
+x=12
+y=-19
+received buffer:mos  8m 16 -14
+data length = 8
+x=16
+y=-14
+received buffer:mos  6m 5 -2
+data length = 6
+x=5
+y=-2
+received buffer:mos  7m 18 -8
+data length = 7
+x=18
+y=-8
+received buffer:mos  7m 12 -5
+data length = 7
+x=12
+y=-5
+received buffer:mos  6m 2 -1
+data length = 6
+x=2
+y=-1
+received buffer:mos  6m 2 -2
+data length = 6
+x=2
+y=-2
+received buffer:mos  5m 1 0
+data length = 5
+x=1
+y=0
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  7m -3 -3
+data length = 7
+x=-3
+y=-3
+received buffer:mos  8m -12 -7
+data length = 8
+x=-12
+y=-7
+received buffer:mos  7m -3 -2
+data length = 7
+x=-3
+y=-2
+received buffer:mos  8m -15 -6
+data length = 8
+x=-15
+y=-6
+received buffer:mos  8m -16 -7
+data length = 8
+x=-16
+y=-7
+received buffer:mos  7m -3 -2
+data length = 7
+x=-3
+y=-2
+received buffer:mos  8m -12 -6
+data length = 8
+x=-12
+y=-6
+received buffer:mos  7m -3 -1
+data length = 7
+x=-3
+y=-1
+received buffer:mos  6m -1 0
+data length = 6
+x=-1
+y=0
+received buffer:mos  6m -2 0
+data length = 6
+x=-2
+y=0
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  6m 0 -1
+data length = 6
+x=0
+y=-1
+received buffer:mos  7m -2 -3
+data length = 7
+x=-2
+y=-3
+received buffer:mos  7m -2 -3
+data length = 7
+x=-2
+y=-3
+received buffer:mos  7m -1 -2
+data length = 7
+x=-1
+y=-2
+received buffer:mos  7m -3 -3
+data length = 7
+x=-3
+y=-3
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  7m -3 -2
+data length = 7
+x=-3
+y=-2
+received buffer:mos  7m -3 -2
+data length = 7
+x=-3
+y=-2
+received buffer:mos  6m -1 0
+data length = 6
+x=-1
+y=0
+received buffer:mos  7m -2 -1
+data length = 7
+x=-2
+y=-1
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  7m -1 -1
+data length = 7
+x=-1
+y=-1
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  5m 0 0
+data length = 5
+x=0
+y=0
+received buffer:mos  5m 1 2
+data length = 5
+x=1
+y=2
+received buffer:mos  5m 1 2
+data length = 5
+x=1
+y=2
+received buffer:mos  5m 4 3
+data length = 5
+x=4
+y=3
+received buffer:mos  5m[14222:14222:1227/205548.743296:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[14222:14222:1227/205635.612292:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.612963:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.613506:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.614117:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.614699:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.615282:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.615825:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.616350:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.616885:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.617428:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.618030:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14222:14222:1227/205635.618640:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14546:14546:1227/205656.281530:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08cf329000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08cf329000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08cf329000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[14445:14445:1227/205711.318707:ERROR:CONSOLE(1)] "Request has failed. [object Object] Sun Dec 27 2020 20:57:11 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+[14445:14445:1227/205711.319052:ERROR:CONSOLE(1)] " [object Object] Sun Dec 27 2020 20:57:11 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+[14445:14445:1227/205711.331707:ERROR:CONSOLE(1)] "Request has failed. [object Object] Sun Dec 27 2020 20:57:11 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+[14445:14445:1227/205711.331782:ERROR:CONSOLE(1)] " [object Object] Sun Dec 27 2020 20:57:11 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+[14445:14445:1227/205736.059812:ERROR:CONSOLE(1)] "Request has failed. [object Object] Sun Dec 27 2020 20:57:36 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+[14445:14445:1227/205736.060060:ERROR:CONSOLE(1)] " [object Object] Sun Dec 27 2020 20:57:36 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+[14445:14445:1227/205746.316366:ERROR:CONSOLE(1)] "Request has failed. [object Object] Sun Dec 27 2020 20:57:46 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+[14445:14445:1227/205746.317347:ERROR:CONSOLE(1)] " [object Object] Sun Dec 27 2020 20:57:46 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+[14445:14445:1227/205746.545470:ERROR:CONSOLE(1)] "Request has failed. [object Object] Sun Dec 27 2020 20:57:46 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+[14445:14445:1227/205746.546389:ERROR:CONSOLE(1)] " [object Object] Sun Dec 27 2020 20:57:46 GMT-0600 (hora estándar central)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8ef25a13b869ed9bfb7f.js (1)
+
+(soffice:14858): Gdk-WARNING **: 21:02:23.761: gdk_window_set_icon_list: icons too large
+
+(soffice:14858): Gdk-WARNING **: 21:02:38.902: gdk_window_set_icon_list: icons too large
+
+(soffice:14858): Gdk-WARNING **: 21:02:40.235: gdk_window_set_icon_list: icons too large
+
+(process:2366): GLib-GIO-CRITICAL **: 21:04:53.286: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 21:04:53.286: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 21:04:53.286: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 21:04:53.286: g_variant_new_string: assertion 'string != NULL' failed
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08bbb05c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08bbb05c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08bbb05c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08b78dac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08b78dac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08b78dac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08b78dac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 13517, MediaDecoderStateMachine #1] WARNING: Decoder=7f08b78dac00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[15240:15240:1227/211049.482410:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[16736:16736:1227/212718.473191:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[17351:17351:1227/214135.766351:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+(process:2366): GLib-GIO-CRITICAL **: 22:31:46.244: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2366): GLib-CRITICAL **: 22:31:46.244: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 22:31:46.244: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2366): GLib-CRITICAL **: 22:31:46.244: g_variant_new_string: assertion 'string != NULL' failed
+[2020-12-28T05:52:58Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+[2020-12-28T05:53:00Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+Abriendo en una sesión existente del navegador
+Abriendo en una sesión existente del navegador
+Abriendo en una sesión existente del navegador
+Abriendo en una sesión existente del navegador
+Abriendo en una sesión existente del navegador
+[17351:17351:1228/000112.538822:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17355:17372:1228/000225.462460:ERROR:ssl_client_socket_impl.cc(960)] handshake failed; returned -1, SSL error code 1, net_error -202
+[17355:17372:1228/000528.253415:ERROR:ssl_client_socket_impl.cc(960)] handshake failed; returned -1, SSL error code 1, net_error -113
+** Message: 00:07:35.963: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:22822): WARNING **: 00:07:35.963: XDG_TEMPLATES_DIR is set to invalid path, ignoring it
+
+(pcmanfm:22822): Gdk-WARNING **: 00:07:36.235: gdk_window_set_icon_list: icons too large
+evince 'file:///home/metal/Documentos/fuentes/latex/cv/FernandoFrias_resume.pdf' 
+
+(evince:23034): Gtk-WARNING **: 00:07:51.879: Attempting to read the recently used resources file at '/home/metal/.local/share/recently-used.xbel', but the parser failed: Falló al abrir el archivo «/home/metal/.local/share/recently-used.xbel»: Permiso denegado.
+
+(evince:23034): GVFS-WARNING **: 00:07:51.955: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.958: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.959: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.959: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.959: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.959: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.959: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.960: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.960: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.960: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.960: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.960: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.961: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.961: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.961: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.962: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.962: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.962: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.962: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.963: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:51.966: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:52.005: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.006: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.006: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.006: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.006: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.006: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.006: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.006: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.006: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.006: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:07:52.007: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.008: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:52.010: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+! SyncTeX Error : No file?
+
+(evince:23034): GVFS-WARNING **: 00:07:52.052: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.053: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.055: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.056: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:52.057: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:07:52.058: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.058: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.059: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.059: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.061: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.061: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.062: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.062: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.062: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.063: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:52.076: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.076: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.076: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.076: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.076: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.076: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:07:52.143: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.143: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.143: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.144: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.146: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.146: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.146: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.146: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.147: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.147: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.147: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.148: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.148: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.148: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.148: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.148: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.149: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.149: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.149: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.149: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.150: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.150: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.150: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.150: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.151: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:52.151: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:52.151: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): Gtk-WARNING **: 00:07:52.308: Attempting to store changes into '/home/metal/.local/share/recently-used.xbel', but failed: Falló al crear el archivo «/home/metal/.local/share/recently-used.xbel.AAPHW0»: Permiso denegado
+
+(evince:23034): Gtk-WARNING **: 00:07:52.308: Attempting to set the permissions of '/home/metal/.local/share/recently-used.xbel', but failed: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.398: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.400: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.400: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.400: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.401: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.402: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.403: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.404: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.405: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.405: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.405: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.406: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.406: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.408: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.408: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.409: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.409: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.409: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:53.413: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.413: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.413: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.413: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.413: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.413: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.413: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.413: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.413: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:07:53.450: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.450: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.450: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.450: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.451: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.451: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.452: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.452: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.452: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.452: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.453: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.453: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.453: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.454: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:53.454: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:53.454: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.454: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.454: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.454: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.454: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.454: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+** (evince:23034): WARNING **: 00:07:53.454: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:07:53.455: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:53.461: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:07:56.847: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:56.849: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:56.873: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:07:57.639: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:57.641: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:57.665: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:07:58.338: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:07:58.339: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:07:58.339: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): Gtk-WARNING **: 00:08:27.144: Attempting to read the recently used resources file at '/home/metal/.local/share/recently-used.xbel', but the parser failed: Falló al abrir el archivo «/home/metal/.local/share/recently-used.xbel»: Permiso denegado.
+
+(evince:23034): GVFS-WARNING **: 00:08:46.260: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:08:46.263: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:08:46.291: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:08:47.197: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:08:47.199: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:08:47.199: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:08:50.645: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:08:50.647: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:08:50.675: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): GVFS-WARNING **: 00:08:51.324: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:08:51.325: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:08:51.325: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+Abriendo en una sesión existente del navegador
+
+(evince:23034): Gtk-WARNING **: 00:17:39.196: Attempting to read the recently used resources file at '/home/metal/.local/share/recently-used.xbel', but the parser failed: Falló al abrir el archivo «/home/metal/.local/share/recently-used.xbel»: Permiso denegado.
+
+(evince:23034): GVFS-WARNING **: 00:23:06.885: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+(evince:23034): GVFS-WARNING **: 00:23:06.886: can't init metadata tree /home/metal/.local/share/gvfs-metadata/uuid-09429169-e256-4876-8757-bc4e8d16f205: open: Permiso denegado
+
+** (evince:23034): WARNING **: 00:23:06.886: Error al establecer los metadatos del archivo: no se puede abrir el árbol de metadatos
+
+(evince:23034): Gtk-WARNING **: 00:23:08.904: Attempting to store changes into '/home/metal/.local/share/recently-used.xbel', but failed: Falló al crear el archivo «/home/metal/.local/share/recently-used.xbel.XEZ4V0»: Permiso denegado
+
+(evince:23034): Gtk-WARNING **: 00:23:08.905: Attempting to set the permissions of '/home/metal/.local/share/recently-used.xbel', but failed: Permiso denegado
+
+(xfce4-session:2214): Gtk-CRITICAL **: 00:23:15.224: IA__gtk_widget_set_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(Thunar:2281): Gtk-CRITICAL **: 00:23:17.244: gtk_main_quit: assertion 'main_loops != NULL' failed
+
+(xfce4-session:2214): GLib-GObject-CRITICAL **: 00:23:17.344: g_object_unref: assertion 'G_IS_OBJECT (object)' failed

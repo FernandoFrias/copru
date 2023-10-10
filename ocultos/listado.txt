@@ -1,0 +1,79 @@
+drwxr-xr-x. 48 liveuser liveuser   4096 Dec 28 12:18 .
+drwxr-xr-x.  5 root     root       4096 Sep  7 22:26 ..
+drwx------.  2 liveuser liveuser   4096 Sep 15 01:26 .alsaplayer
+drwxrwxr-x.  4 liveuser liveuser   4096 Sep 18 02:20 .audacity-data
+-rw-------.  1 liveuser liveuser  38795 Dec 28 11:28 .bash_history
+-rw-r--r--.  1 liveuser liveuser    220 Aug 30 01:56 .bash_logout
+-rw-r--r--.  1 liveuser liveuser   3947 Oct 26 22:54 .bashrc
+-rw-r--r--.  1 liveuser liveuser   3573 Sep  1 10:56 .bashrcOR
+lrwxrwxrwx.  1 liveuser liveuser     38 Sep 13 11:57 .cache -> /mnt/Datos/usuarios/metal/debian/cache
+-rw-------.  1 liveuser liveuser   3403 Aug 30 17:30 .cgobanrc
+lrwxrwxrwx.  1 liveuser liveuser     39 Sep 13 11:57 .config -> /mnt/Datos/usuarios/metal/debian/config
+drwxrwxr-x.  2 liveuser liveuser   4096 Nov 29 12:02 .covers
+drwx------.  3 liveuser liveuser   4096 Aug 30 22:57 .dbus
+drwxrwxr-x.  2 liveuser liveuser   4096 Aug 30 11:51 .debian-edu
+drwxrwxr-x.  2 liveuser liveuser   4096 Oct  2 02:30 .devilspie
+-rw-r--r--.  1 liveuser liveuser     35 Dec 17 22:00 .dmrc
+drwx------.  2 liveuser liveuser   4096 Sep 11 00:24 .einstein
+drwxrwxr-x.  2 liveuser liveuser   4096 Dec 22 18:06 .etr
+drwxrwxr-x.  2 liveuser liveuser   4096 Dec 27 20:39 .flamerobin
+drwx------.  3 liveuser liveuser   4096 Aug 31 00:39 .fltk
+drwxrwxr-x.  2 liveuser liveuser   4096 Sep  7 16:20 .FreeCAD
+drwxr-xr-x.  3 liveuser liveuser   4096 Sep  6 21:53 .gchempaint
+drwxr-xr-x.  2 liveuser liveuser   4096 Sep  6 21:53 .gchemutils
+drwx------.  2 liveuser liveuser   4096 Sep 14 14:03 .gconf
+drwx------.  3 liveuser liveuser   4096 Aug 30 23:29 .gnome
+drwx------.  3 liveuser liveuser   4096 Aug 30 02:04 .gnupg
+drwxrwxr-t.  2 liveuser liveuser   4096 Aug 30 17:30 .gtans
+-rw-rw-r--.  1 liveuser liveuser    400 Dec 25 00:31 .gtickrc
+drwxrwxr-x.  4 liveuser liveuser   4096 Nov 11 14:51 .gtkpod
+drwx------.  2 liveuser liveuser   4096 Sep 24 12:02 .gvfs
+drwx------.  7 liveuser liveuser   4096 Aug 30 17:34 .gwyddion
+drwxrwxr-x.  3 liveuser liveuser   4096 Sep  1 00:13 .hydrogen
+-rw-------.  1 liveuser liveuser   6464 Dec 28 12:18 .ICEauthority
+drwxrwxr-x.  3 liveuser liveuser   4096 Aug 30 18:19 .java
+drwxrwxr-x.  2 liveuser liveuser   4096 Sep  1 00:53 .jfractionlab
+-rw-------.  1 liveuser liveuser     66 Dec 17 18:03 .lesshst
+drwxr-xr-x.  2 liveuser liveuser  12288 Oct  7 21:21 .lilypond-fonts.cache-2
+drwxrwxr-x.  2 liveuser liveuser   4096 Oct 13 23:45 .lingot
+-rw-rw-r--.  1 liveuser liveuser   1146 Sep 14 00:52 .lmmsrc.xml
+lrwxrwxrwx.  1 liveuser liveuser     38 Sep 13 11:57 .local -> /mnt/Datos/usuarios/metal/debian/local
+drwxrwxr-x.  2 liveuser liveuser   4096 Sep  6 00:15 .lyrics
+drwx------.  2 liveuser liveuser   4096 Sep 13 09:33 .mozc
+lrwxrwxrwx.  1 liveuser liveuser     40 Sep 13 12:03 .mozilla -> /mnt/Datos/usuarios/metal/debian/mozilla
+drwxrwxr-x.  3 liveuser liveuser   4096 Dec 28 12:18 .mpd
+drwxrwxr-x.  3 liveuser liveuser   4096 Dec 28 12:18 .mpd1
+-rw-rw-r--.  1 liveuser liveuser  12676 Dec 20 18:42 .mpdconf
+-rw-rw-r--.  1 liveuser liveuser  12682 Dec 20 18:42 .mpdconf1
+drwxrwxr-x.  2 liveuser liveuser   4096 Dec 17 18:45 .ncmpcpp
+lrwxrwxrwx.  1 liveuser liveuser     41 Sep 13 11:57 .netbeans -> /mnt/Datos/usuarios/metal/debian/netbeans
+drwxr-x---.  3 liveuser liveuser   4096 Dec 11 16:33 .openarena
+drwx------.  3 liveuser liveuser   4096 Aug 30 12:03 .pki
+-rw-r--r--.  1 liveuser liveuser    808 Dec 26 18:37 .profile
+-rw-rw-r--.  1 liveuser liveuser    736 Dec 20 18:03 .ri-li.pref
+drwx------.  3 liveuser liveuser   4096 Aug 31 22:42 .sane
+-rw-rw-r--.  1 liveuser liveuser     20 Aug 30 17:15 .screenrc
+drwx------.  2 liveuser liveuser   4096 Sep 14 18:12 .ssh
+drwxrwxr-x.  3 liveuser liveuser   4096 Dec 27 01:02 .subversion
+drwx------.  4 liveuser liveuser   4096 Sep 21 00:07 .thumbnails
+lrwxrwxrwx.  1 liveuser liveuser     44 Sep 13 11:57 .thunderbird -> /mnt/Datos/usuarios/metal/debian/thunderbird
+-rw-rw-r--.  1 liveuser liveuser   1500 Aug 31 18:00 .tilp
+drwxrwxr-x.  5 liveuser liveuser   4096 Dec 25 16:24 .torcs
+drwx------.  3 liveuser liveuser   4096 Sep 24 12:02 .uim.d
+drwxr-xr-x.  2 liveuser liveuser   4096 Dec 16 21:09 .vim
+-rw-------.  1 liveuser liveuser  43186 Dec 26 21:09 .viminfo
+-rw-rw-r--.  1 liveuser liveuser   9037 Oct 15 15:50 .vimrc
+drwxr-xr-x.  2 liveuser liveuser   4096 Dec 24 10:25 .vmware
+drwx------.  2 liveuser liveuser   4096 Dec  2 21:24 .vnc
+-rw-rw-r--.  1 liveuser liveuser     24 Aug 30 22:56 .vncrc
+-rw-r--r--.  1 liveuser liveuser    873 Aug 30 17:25 .wbar
+-rw-rw-r--.  1 liveuser liveuser    216 Dec 26 19:09 .wget-hsts
+drwxrwxr-x.  2 liveuser liveuser   4096 Aug 30 11:51 .wicd
+-rw-------.  1 liveuser liveuser    679 Dec 28 12:18 .Xauthority
+-rw-rw-r--.  1 liveuser liveuser  26300 Dec 28 12:18 .xfce4-session.verbose-log
+-rw-rw-r--.  1 liveuser liveuser  35619 Dec 28 01:23 .xfce4-session.verbose-log.last
+drwxr-xr-x.  2 liveuser liveuser   4096 Sep  9 10:36 .xine
+-rw-r--r--.  1 liveuser liveuser   8786 Nov 18 21:42 .xscreensaver
+-rw-------.  1 liveuser liveuser   8970 Dec 28 12:18 .xsession-errors
+-rw-------.  1 liveuser liveuser 106010 Dec 28 01:23 .xsession-errors.old
+lrwxrwxrwx.  1 liveuser liveuser     37 Sep 13 11:58 .zoom -> /mnt/Datos/usuarios/metal/debian/zoom

@@ -1,0 +1,2276 @@
+# Vim 8.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~Msle0~/\<cfgfile\>
+
+# Último SustituciónPatrón de búsqueda:
+~MSle0&^
+
+# Última cadena de sustitución:
+$
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q!
+|2,0,1609034946,,"q!"
+:help atom
+|2,0,1609027443,,"help atom"
+:ma atom
+|2,0,1609027440,,"ma atom"
+:wq
+|2,0,1609026831,,"wq"
+:q
+|2,0,1609019271,,"q"
+:w issues400.txt
+|2,0,1608693184,,"w issues400.txt"
+:q1
+|2,0,1608679598,,"q1"
+:qqa
+|2,0,1608507683,,"qqa"
+:Q!
+|2,0,1608439634,,"Q!"
+:tabe ~/.mpdconf1
+|2,0,1608246050,,"tabe ~/.mpdconf1"
+:qa!
+|2,0,1608237488,,"qa!"
+:help digraph
+|2,0,1608226956,,"help digraph"
+:w
+|2,0,1608228695,,"w"
+:tabe ~/.ncmpcpp/config
+|2,0,1608073771,,"tabe ~/.ncmpcpp/config"
+:tabe Documentos/fuentes/lilypond/ly/proc.sh
+|2,0,1607903232,,"tabe Documentos/fuentes/lilypond/ly/proc.sh"
+:file
+|2,0,1607733362,,"file"
+:set syn=vimrc
+|2,0,1607733345,,"set syn=vimrc"
+:W
+|2,0,1606758946,,"W"
+:redo
+|2,0,1605208338,,"redo"
+:tabe openScales.txt
+|2,0,1605206950,,"tabe openScales.txt"
+:tabe warmup.txt
+|2,0,1605159037,,"tabe warmup.txt"
+:%
+|2,0,1605141002,,"%"
+:.,+5s/|$/|          /g
+|2,0,1605140669,,".,+5s/|$/|          /g"
+:%s/|$/|          /g
+|2,0,1605140526,,"%s/|$/|          /g"
+:%&
+|2,0,1605140504,,"%&"
+:.,+5s/^/    /g
+|2,0,1605139658,,".,+5s/^/    /g"
+:%g/^ \+. \+$/d
+|2,0,1605139553,,"%g/^ \\+. \\+$/d"
+:%g/^ $/d
+|2,0,1605139534,,"%g/^ $/d"
+:%g/Scale/d
+|2,0,1605137003,,"%g/Scale/d"
+:&
+|2,0,1605136996,,"&"
+:%g/Chords/d
+|2,0,1605136983,,"%g/Chords/d"
+:%g/^ \+3 \+$/d
+|2,0,1605136678,,"%g/^ \\+3 \\+$/d"
+:%g/Intervals/d
+|2,0,1605136360,,"%g/Intervals/d"
+:%g/Mode/d
+|2,0,1605136353,,"%g/Mode/d"
+:%g/Major/d
+|2,0,1605136345,,"%g/Major/d"
+:%g/Minor/d
+|2,0,1605136336,,"%g/Minor/d"
+:%g/Half/d
+|2,0,1605136325,,"%g/Half/d"
+:help global
+|2,0,1605136265,,"help global"
+:%g/Half/
+|2,0,1605136261,,"%g/Half/"
+:%s/
+|2,0,1605136236,,"%s/"
+:vsplit
+|2,0,1604974818,,"vsplit"
+:94
+|2,0,1604974753,,"94"
+:make
+|2,0,1604451023,,"make"
+:w ../Documentos/GMusical.txt
+|2,0,1604097144,,"w ../Documentos/GMusical.txt"
+:!pwd
+|2,0,1604097132,,"!pwd"
+:!
+|2,0,1604097131,,"!"
+:w Donaciones\ a\ La\ Iglesia\ de\ Jesucristo\ de\ los\ Santos\ de\ los\ Últimos\ Días\ 16-dic-2018.pdf
+|2,0,1604097127,,"w Donaciones\\ a\\ La\\ Iglesia\\ de\\ Jesucristo\\ de\\ los\\ Santos\\ de\\ los\\ Últimos\\ Días\\ 16-dic-2018.pdf"
+:vsplit ritmo.ly
+|2,0,1603635538,,"vsplit ritmo.ly"
+:clo
+|2,0,1603635177,,"clo"
+:cope
+|2,0,1603635149,,"cope"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+? \<cfgfile\>
+|2,1,1609016263,,"\\<cfgfile\\>"
+?/cfg
+|2,1,1609016258,47,"cfg"
+?/Shout
+|2,1,1608496363,47,"Shout"
+?/bit
+|2,1,1608226681,47,"bit"
+? @$
+|2,1,1608170978,,"@$"
+?/192
+|2,1,1608094212,47,"192"
+? \<song_list_format\>
+|2,1,1608070499,,"\\<song_list_format\\>"
+?/localhost
+|2,1,1606944260,47,"localhost"
+? \<player_state_color\>
+|2,1,1606761205,,"\\<player_state_color\\>"
+?/asdf asdf
+|2,1,1606758454,47,"asdf asdf"
+? \<progressbar_look\>
+|2,1,1606758444,,"\\<progressbar_look\\>"
+?/8000
+|2,1,1606694770,47,"8000"
+?/ock
+|2,1,1606686743,47,"ock"
+?/user
+|2,1,1606599391,47,"user"
+?/service
+|2,1,1606597533,47,"service"
+?/log
+|2,1,1606242922,47,"log"
+?/fasdf
+|2,1,1605208913,47,"fasdf"
+?/$
+|2,1,1605208869,47,"$"
+?/asdf
+|2,1,1605206461,47,"asdf"
+?/asdfas df
+|2,1,1605158007,47,"asdfas df"
+? \<6\>
+|2,1,1605157351,,"\\<6\\>"
+? \<Technique\>
+|2,1,1605153760,,"\\<Technique\\>"
+? \<major\>
+|2,1,1605153284,,"\\<major\\>"
+?/asdf 
+|2,1,1605141228,47,"asdf "
+? ^
+|2,1,1605140962,,"^"
+? |$
+|2,1,1605140669,,"|$"
+? \<Key\>
+|2,1,1605139632,,"\\<Key\\>"
+? ^ \+. \+$
+|2,1,1605139553,,"^ \\+. \\+$"
+?/asdf asd
+|2,1,1605139440,47,"asdf asd"
+? Key
+|2,1,1605137179,,"Key"
+? Scale
+|2,1,1605137003,,"Scale"
+? ^ \+3 \+$
+|2,1,1605136678,,"^ \\+3 \\+$"
+? Chords
+|2,1,1605136367,,"Chords"
+? Intervals
+|2,1,1605136360,,"Intervals"
+? Mode
+|2,1,1605136353,,"Mode"
+? Minor
+|2,1,1605136336,,"Minor"
+? Half
+|2,1,1605136325,,"Half"
+?/Half/d
+|2,1,1605136243,47,"Half/d"
+?/34
+|2,1,1603767255,47,"34"
+?/asdf asdf 
+|2,1,1603634231,47,"asdf asdf "
+? \<TERR\>
+|2,1,1603634119,,"\\<TERR\\>"
+?/switch
+|2,1,1603578265,47,"switch"
+?/jack
+|2,1,1603578249,47,"jack"
+? \([a-z]\+\)R\([a-z]*\)
+|2,1,1603244632,,"\\([a-z]\\+\\)R\\([a-z]*\\)"
+?/[a-z]\+R[a-z]*
+|2,1,1603244597,47,"[a-z]\\+R[a-z]*"
+?/[a-z]\+R[a-z]\*
+|2,1,1603244576,47,"[a-z]\\+R[a-z]\\*"
+? \([a-z]\+\)R\(p\*\)
+|2,1,1603244518,,"\\([a-z]\\+\\)R\\(p\\*\\)"
+? \([a-z]\+\)R\(d\*\)
+|2,1,1603244487,,"\\([a-z]\\+\\)R\\(d\\*\\)"
+? \([a-z]\+[A-Z]\)d
+|2,1,1603244400,,"\\([a-z]\\+[A-Z]\\)d"
+? ([a-z]\+[A-Z])d
+|2,1,1603244350,,"([a-z]\\+[A-Z])d"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	LINE	0
+		name		"My Local Radio Discs"
+|3,0,0,1,1,0,1608507752,"	name		\"My Local Radio Discs\""
+""1	LINE	0
+	export LD_LIBRARY_PATH
+|3,1,1,1,1,0,1609025878,"export LD_LIBRARY_PATH"
+"2	LINE	0
+	LD_LIBRARY_PATH=${SVN_HOME}/lib:${LD_LIBRARY_PATH}
+|3,0,2,1,1,0,1609025878,"LD_LIBRARY_PATH=${SVN_HOME}/lib:${LD_LIBRARY_PATH}"
+"3	LINE	0
+	
+|3,0,3,1,1,0,1608232816,""
+"4	LINE	0
+	visualizer_output_name = "my_fifo"
+	[visualizer_sync_interval = "30" ]
+	visualizer_in_stereo = "yes"
+	visualizer_type = "spectrum"
+	[visualizer_look = "*#"]
+	[visualizer_look = "ѪЖ"]
+	[visualizer_look = "░░"]
+	[visualizer_look = "▒▒"]
+	[visualizer_look = "▓▓"]
+	[visualizer_look = "▦▦"]
+	visualizer_look = "██"
+	[visualizer_look = "■■"]
+	display_remaining_time = yes
+	user_interface = classic
+	clock_display_seconds = yes
+	[now_playing_prefix = "-"]
+	[header_window_color = 200]
+	volume_color = 200
+	[state_flags_color = 160]
+	[main_window_color = 160]
+	statusbar_color = 196
+	statusbar_time_color = 195
+	statusbar_visibility = yes
+	display_volume_level = no
+	display_bitrate = no
+	player_state_color = 188
+	alternative_ui_separator_color = 16
+	song_status_format = $6%a$9 $3━$9 %t$2(%n)$9 $8from:$9 $2%b$9
+	visualizer_sync_interval = "10"
+	song_list_format = "$7%n$9 - $3%t$9 $8[$9%l$8]$9"
+	
+	[progressbar_look = "━Φ"]
+	[progressbar_look = "━Ж"]
+	[progressbar_look = "━Ѫ"]
+	[progressbar_look = "━☻"]
+	[progressbar_look = "█▓▒"]
+	progressbar_look = "■▨□"
+|3,0,4,1,37,0,1608232800,"visualizer_output_name = \"my_fifo\"","[visualizer_sync_interval = \"30\" ]","visualizer_in_stereo = \"yes\"","visualizer_type = \"spectrum\"","[visualizer_look = \"*#\"]","[visualizer_look = \"ѪЖ\"]","[visualizer_look = \"░░\"]","[visualizer_look = \"▒▒\"]","[visualizer_look = \"▓▓\"]","[visualizer_look = \"▦▦\"]","visualizer_look = \"██\"","[visualizer_look = \"■■\"]","display_remaining_time = yes",>26
+|<"user_interface = classic","clock_display_seconds = yes","[now_playing_prefix = \"-\"]","[header_window_color = 200]","volume_color = 200","[state_flags_color = 160]","[main_window_color = 160]","statusbar_color = 196","statusbar_time_color = 195","statusbar_visibility = yes","display_volume_level = no","display_bitrate = no","player_state_color = 188","alternative_ui_separator_color = 16","song_status_format = $6%a$9 $3━$9 %t$2(%n)$9 $8from:$9 $2%b$9",>35
+|<"visualizer_sync_interval = \"10\"","song_list_format = \"$7%n$9 - $3%t$9 $8[$9%l$8]$9\"","","[progressbar_look = \"━Φ\"]","[progressbar_look = \"━Ж\"]","[progressbar_look = \"━Ѫ\"]","[progressbar_look = \"━☻\"]","[progressbar_look = \"█▓▒\"]","progressbar_look = \"■▨□\""
+"5	LINE	0
+	visualizer_look = "██"
+|3,0,5,1,1,0,1608227117,"visualizer_look = \"██\""
+"6	LINE	0
+	visualizer_look = "▬▶▭"
+|3,0,6,1,1,0,1608227109,"visualizer_look = \"▬▶▭\""
+"7	LINE	0
+	visualizer_output_name = "my_fifo"
+	[visualizer_sync_interval = "30" ]
+	visualizer_in_stereo = "yes"
+	visualizer_type = "spectrum"
+	[visualizer_look = "*#"]
+	visualizer_look = "ѪЖ"
+	display_remaining_time = yes
+	user_interface = classic
+	clock_display_seconds = yes
+	[now_playing_prefix = "-"]
+	[header_window_color = 200]
+	volume_color = 200
+	[state_flags_color = 160]
+	[main_window_color = 160]
+	statusbar_color = 196
+	statusbar_time_color = 195
+	statusbar_visibility = yes
+	display_volume_level = no
+	display_bitrate = yes
+	player_state_color = 188
+	alternative_ui_separator_color = 16
+	song_status_format = $6%a$9 $3━$9 %t$2(%n)$9 $8from:$9 $2%b$9
+	visualizer_sync_interval = "10"
+	
+	progressbar_look = "━Φ"
+	[progressbar_look = "━Ж"]
+	[progressbar_look = "━Ѫ"]
+	[progressbar_look = "━☻"]
+|3,0,7,1,28,0,1608171947,"visualizer_output_name = \"my_fifo\"","[visualizer_sync_interval = \"30\" ]","visualizer_in_stereo = \"yes\"","visualizer_type = \"spectrum\"","[visualizer_look = \"*#\"]","visualizer_look = \"ѪЖ\"","display_remaining_time = yes","user_interface = classic","clock_display_seconds = yes","[now_playing_prefix = \"-\"]","[header_window_color = 200]","volume_color = 200","[state_flags_color = 160]","[main_window_color = 160]",>23
+|<"statusbar_color = 196","statusbar_time_color = 195","statusbar_visibility = yes","display_volume_level = no","display_bitrate = yes","player_state_color = 188","alternative_ui_separator_color = 16","song_status_format = $6%a$9 $3━$9 %t$2(%n)$9 $8from:$9 $2%b$9","visualizer_sync_interval = \"10\"","","progressbar_look = \"━Φ\"","[progressbar_look = \"━Ж\"]","[progressbar_look = \"━Ѫ\"]","[progressbar_look = \"━☻\"]"
+"8	LINE	0
+	fr1a5(TP)
+|3,0,8,1,1,0,1607738803,"fr1a5(TP)"
+"9	LINE	0
+	
+|3,0,9,1,1,0,1606845532,""
+"a@	CHAR	0
+	12jD12k$p0j
+|3,2,10,0,1,0,1605141531,"12jD12k$p0j"
+"w	CHAR	0
+	
+|3,0,32,0,1,0,1603241879,""
+"-	CHAR	0
+	localhost
+|3,0,36,0,1,0,1608679604,"localhost"
+
+# Marcas en el archivo:
+'0  281  12  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/Makefile
+|4,48,281,12,1609034946,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/Makefile"
+'1  81  2  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL
+|4,49,81,2,1609034899,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL"
+'2  42  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+|4,50,42,0,1609034889,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README"
+'3  1  0  ~/index.html
+|4,51,1,0,1609027755,"~/index.html"
+'4  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,52,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+'5  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,53,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+'6  1  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,54,1,0,1609026241,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+'7  1  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,55,1,0,1609026241,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+'8  1  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,56,1,0,1609026208,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+'9  1  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,57,1,0,1609026208,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+
+# Lista de saltos (el más reciente va primero):
+-'  281  12  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/Makefile
+|4,39,281,12,1609034946,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/Makefile"
+-'  1  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/Makefile
+|4,39,1,0,1609034903,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/Makefile"
+-'  81  2  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL
+|4,39,81,2,1609034899,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL"
+-'  81  2  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL
+|4,39,81,2,1609034899,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL"
+-'  1  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL
+|4,39,1,0,1609034892,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL"
+-'  1  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL
+|4,39,1,0,1609034892,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL"
+-'  42  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+|4,39,42,0,1609034889,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README"
+-'  42  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+|4,39,42,0,1609034889,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README"
+-'  42  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+|4,39,42,0,1609034889,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README"
+-'  42  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+|4,39,42,0,1609034889,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README"
+-'  1  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+|4,39,1,0,1609034881,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README"
+-'  1  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+|4,39,1,0,1609034881,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README"
+-'  1  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+|4,39,1,0,1609034881,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README"
+-'  1  0  /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+|4,39,1,0,1609034881,"/mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README"
+-'  1  0  ~/index.html
+|4,39,1,0,1609027755,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1609027755,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1609027755,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1609027755,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1609027755,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1609027755,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1609027755,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1609027755,"~/index.html"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  2  8  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,2,8,1609026831,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  1  0  /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+|4,39,1,0,1609026763,"/mnt/Datos/usuarios/metal/Documentos/globalRelay.txt"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+-'  92  0  /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+|4,39,92,0,1609026365,"/mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/Makefile
+	*	1609034946	0
+	"	281	12
+
+> /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/INSTALL
+	*	1609034899	0
+	"	81	2
+
+> /mnt/Datos/usuarios/metal/Descargas/httpd-2.4.46/README
+	*	1609034889	0
+	"	42	0
+
+> /usr/share/vim/vim81/doc/pattern.txt
+	*	1609027838	0
+	"	503	0
+
+> ~/index.html
+	*	1609027754	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/globalRelay.txt
+	*	1609026830	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
+
+> /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/README
+	*	1609026365	0
+	"	92	0
+
+> ~/.profile
+	*	1609025879	0
+	"	28	0
+	.	29	0
+	+	29	0
+
+> /mnt/Datos/usuarios/metal/Descargas/serf-1.3.9/config.log
+	*	1609018853	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Descargas/apr-1.7.0/configure
+	*	1609016280	0
+	"	31880	9
+	^	31880	10
+	.	31880	9
+	+	31880	9
+
+> ~/.flamerobin/fr_databases.conf
+	*	1609010942	0
+	"	8	0
+	^	6	24
+	.	6	23
+	+	6	23
+
+> /mnt/Datos/usuarios/metal/Documentos/UnitedHealthGroup
+	*	1608926309	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
+
+> /mnt/Datos/usuarios/metal/Documentos/routine.txt
+	*	1608874300	0
+	"	33	5
+	^	1	0
+	.	3	0
+	+	54	0
+	+	60	0
+	+	55	15
+	+	56	8
+	+	55	10
+	+	56	11
+	+	55	27
+	+	56	27
+	+	54	0
+	+	57	8
+	+	58	25
+	+	59	26
+	+	58	8
+	+	59	10
+	+	58	27
+	+	59	27
+	+	55	12
+	+	56	12
+	+	58	12
+	+	59	12
+	+	55	17
+	+	56	17
+	+	58	17
+	+	59	22
+	+	58	22
+	+	55	22
+	+	56	22
+	+	55	7
+	+	56	7
+	+	58	7
+	+	59	7
+	+	58	27
+	+	59	27
+	+	55	27
+	+	56	27
+	+	1	0
+	+	3	0
+
+> ~/issues400.txt
+	*	1608786110	0
+	"	1	0
+
+> ~/.flamerobin/fr_settings.conf
+	*	1608679629	0
+	"	1	0
+
+> ~/.flamerobin/fr_f
+	*	1608679598	0
+	"	1	0
+
+> ~/.mpdconf1
+	*	1608667647	0
+	"	340	0
+	^	233	28
+	.	233	27
+	+	13	61
+	+	20	27
+	+	28	17
+	+	37	18
+	+	43	18
+	+	50	20
+	+	90	12
+	+	235	11
+	+	253	16
+	+	240	19
+	+	232	0
+	+	233	27
+
+> /mnt/Datos/usuarios/metal/Documentos/icecast1.xml
+	*	1608667513	0
+	"	64	27
+	^	64	28
+	.	64	27
+	+	68	17
+	+	199	23
+	+	64	27
+
+> ~/icecast/log/error.log
+	*	1608666724	0
+	"	2102	0
+
+> ~/.mpdconf
+	*	1608666676	0
+	"	229	0
+	^	233	28
+	.	233	23
+	+	229	0
+	+	230	0
+	+	231	0
+	+	232	0
+	+	234	0
+	+	235	0
+	+	236	0
+	+	237	0
+	+	238	0
+	+	239	0
+	+	240	0
+	+	241	0
+	+	242	0
+	+	243	0
+	+	244	0
+	+	245	0
+	+	246	0
+	+	247	0
+	+	248	0
+	+	249	0
+	+	238	0
+	+	250	0
+	+	240	0
+	+	240	19
+	+	232	0
+	+	233	21
+	+	90	0
+	+	233	23
+
+> ~/.mpd/mpd.conf
+	*	1608507798	0
+	"	233	21
+	^	233	22
+	.	233	21
+	+	13	18
+	+	20	0
+	+	28	0
+	+	37	0
+	+	43	0
+	+	50	0
+	+	67	13
+	+	74	14
+	+	206	0
+	+	207	0
+	+	208	0
+	+	209	0
+	+	210	0
+	+	211	0
+	+	212	0
+	+	213	0
+	+	214	0
+	+	240	19
+	+	232	0
+	+	233	21
+
+> /mnt/Datos/usuarios/metal/Documentos/icecast.xml
+	*	1608496364	0
+	"	1	0
+	^	64	28
+	.	64	27
+	+	43	0
+	+	198	46
+	+	199	22
+	+	64	27
+
+> /mnt/Datos/usuarios/metal/Documentos/totalplay.txt
+	*	1608264152	0
+	"	1	0
+	^	2	10
+	.	2	9
+	+	1	10
+	+	2	9
+
+> ~/.ncmpcpp/config1
+	*	1608248750	0
+	"	1	0
+	^	47	32
+	.	47	31
+	+	2	14
+	+	1	19
+	+	52	0
+	+	4	0
+	+	3	0
+	+	51	0
+	+	5	21
+	+	43	29
+	+	47	31
+
+> ~/.ncmpcpp/config
+	*	1608248749	0
+	"	1	0
+	^	47	1
+	.	5	30
+	+	12	25
+	+	13	27
+	+	11	0
+	+	12	0
+	+	11	25
+	+	12	27
+	+	15	0
+	+	11	0
+	+	15	25
+	+	11	27
+	+	14	0
+	+	15	0
+	+	14	25
+	+	15	27
+	+	36	0
+	+	40	26
+	+	15	20
+	+	40	23
+	+	13	0
+	+	40	23
+	+	15	23
+	+	12	0
+	+	41	0
+	+	40	31
+	+	41	26
+	+	14	27
+	+	15	19
+	+	41	0
+	+	15	22
+	+	41	0
+	+	15	22
+	+	15	25
+	+	15	0
+	+	34	0
+	+	29	19
+	+	17	25
+	+	15	27
+	+	17	0
+	+	42	0
+	+	15	0
+	+	16	0
+	+	42	0
+	+	41	31
+	+	42	26
+	+	43	0
+	+	42	29
+	+	43	26
+	+	42	0
+	+	43	31
+	+	44	21
+	+	42	0
+	+	44	21
+	+	15	0
+	+	44	27
+	+	36	0
+	+	43	0
+	+	42	27
+	+	44	31
+	+	42	31
+	+	43	29
+	+	45	27
+	+	43	31
+	+	45	0
+	+	43	1
+	+	45	30
+	+	46	0
+	+	45	22
+	+	46	25
+	+	45	0
+	+	46	25
+	+	51	0
+	+	46	27
+	+	47	26
+	+	45	25
+	+	46	25
+	+	47	31
+	+	46	23
+	+	45	0
+	+	46	28
+	+	42	26
+	+	42	0
+	+	48	23
+	+	42	31
+	+	48	31
+	+	49	23
+	+	47	0
+	+	49	23
+	+	43	29
+	+	49	0
+	+	44	0
+	+	39	24
+	+	43	31
+	+	49	31
+	+	50	28
+	+	41	0
+	+	49	31
+	+	47	29
+	+	43	29
+	+	47	0
+	+	5	30
+
+> /usr/share/vim/vim81/doc/digraph.txt
+	*	1608233056	0
+	"	1189	0
+
+> /mnt/Datos/usuarios/metal/Documentos/gmail.txt
+	*	1608143135	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
+
+> ~/.vimrc
+	*	1607911059	0
+	"	231	0
+	^	243	40
+	.	243	39
+	+	18	0
+	+	19	15
+	+	20	14
+	+	22	26
+	+	22	0
+	+	22	43
+	+	22	0
+	+	22	55
+	+	22	48
+	+	22	45
+	+	22	43
+	+	22	49
+	+	22	50
+	+	22	32
+	+	22	27
+	+	22	28
+	+	22	97
+	+	22	22
+	+	16	0
+	+	21	0
+	+	22	0
+	+	22	62
+	+	22	48
+	+	22	15
+	+	21	0
+	+	22	0
+	+	22	19
+	+	22	0
+	+	22	27
+	+	22	44
+	+	22	30
+	+	22	0
+	+	171	0
+	+	205	0
+	+	219	0
+	+	218	0
+	+	234	0
+	+	226	0
+	+	219	0
+	+	220	0
+	+	47	0
+	+	55	28
+	+	219	0
+	+	55	0
+	+	1	0
+	+	227	0
+	+	233	0
+	+	243	39
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/proc.sh
+	*	1607911058	0
+	"	21	0
+	^	35	24
+	.	35	23
+	+	26	26
+	+	26	0
+	+	26	14
+	+	26	6
+	+	26	1
+	+	26	0
+	+	3	14
+	+	3	13
+	+	6	1
+	+	3	12
+	+	4	28
+	+	26	0
+	+	11	0
+	+	7	0
+	+	26	15
+	+	26	13
+	+	26	0
+	+	8	0
+	+	10	0
+	+	32	0
+	+	33	20
+	+	44	46
+	+	44	21
+	+	44	4
+	+	26	0
+	+	3	13
+	+	33	0
+	+	4	35
+	+	33	5
+	+	44	12
+	+	44	57
+	+	33	26
+	+	44	0
+	+	44	14
+	+	3	0
+	+	33	36
+	+	30	28
+	+	31	8
+	+	33	42
+	+	42	2
+	+	36	38
+	+	34	5
+	+	36	6
+	+	34	6
+	+	36	0
+	+	44	0
+	+	38	0
+	+	29	11
+	+	44	0
+	+	39	0
+	+	44	0
+	+	40	0
+	+	41	0
+	+	44	0
+	+	43	0
+	+	44	8
+	+	45	0
+	+	33	0
+	+	19	1
+	+	16	6
+	+	17	25
+	+	21	11
+	+	21	0
+	+	26	0
+	+	33	23
+	+	27	0
+	+	38	54
+	+	39	23
+	+	41	12
+	+	28	0
+	+	39	38
+	+	29	0
+	+	38	38
+	+	40	12
+	+	30	0
+	+	31	4
+	+	33	38
+	+	34	21
+	+	44	4
+	+	21	0
+	+	22	7
+	+	23	9
+	+	24	9
+	+	22	10
+	+	23	6
+	+	24	6
+	+	26	15
+	+	39	34
+	+	24	15
+	+	23	15
+	+	22	13
+	+	36	7
+	+	34	0
+	+	37	22
+	+	26	0
+	+	35	3
+	+	36	0
+	+	37	0
+	+	36	25
+	+	35	23
+
+> /etc/hosts
+	*	1607833805	0
+	"	1	0
+
+> ~/edrec.txt
+	*	1607733350	0
+	"	42	0
+
+> /mnt/Datos/usuarios/metal/Documentos/izzi.com
+	*	1606931406	0
+	"	11	10
+	^	11	11
+	.	11	10
+	+	6	8
+	+	4	3
+	+	8	17
+	+	9	7
+	+	13	7
+	+	11	10
+
+> /mnt/Datos/usuarios/metal/Documentos/routerpass.txt
+	*	1606927005	0
+	"	1	13
+
+> ~/.ncmpcpp/error.log
+	*	1606778603	0
+	"	1	0
+
+> ~/co.sh
+	*	1606756629	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	5
+	+	1	6
+	+	2	0
+	+	1	8
+
+> /usr/local/lib/systemd/user/icecast.service
+	*	1606712190	0
+	"	7	33
+	.	7	33
+	+	7	33
+
+> /usr/local/lib/systemd/user/mpd.service
+	*	1606711703	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/ce
+	*	1606690777	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/debian/config/systemd/user/default.target.wants/mpd.service
+	*	1606685645	0
+	"	1	0
+
+> /usr/local/etc/mpd.conf
+	*	1606667918	0
+	"	67	0
+
+> ~/.mpd/log
+	*	1606667769	0
+	"	5358	0
+
+> /mnt/Datos/usuarios/metal/Descargas/mpd-0.22.3/doc/mpdconf.example
+	*	1606609447	0
+	"	403	0
+
+> /mnt/Datos/usuarios/metal/Descargas/mpd-0.22.3/toremove.sh
+	*	1606597540	0
+	"	46	0
+	^	47	31
+	.	47	30
+	+	47	30
+
+> /mnt/Datos/usuarios/metal/Descargas/mpd-0.21.25/README.md
+	*	1606590048	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/debian/config/autostart/mpd.desktop
+	*	1606582858	0
+	"	1	0
+	^	13	11
+	.	13	10
+	+	10	30
+	+	13	10
+
+> /etc/xdg/autostart/mpd.desktop
+	*	1606582523	0
+	"	1	0
+
+> /etc/mpd.conf
+	*	1606245221	0
+	"	42	0
+
+> /mnt/Datos/usuarios/metal/Documentos/amdocs.txt
+	*	1605548555	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
+
+> /mnt/Datos/usuarios/metal/Documentos/GMusical.txt
+	*	1605382115	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/paypal.txt
+	*	1605304677	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/c_c++/gscales/patterns.txt
+	*	1605210147	0
+	"	1	0
+	^	78	0
+	.	87	0
+	+	68	22
+	+	68	2
+	+	68	0
+	+	68	8
+	+	68	24
+	+	68	22
+	+	68	2
+	+	69	0
+	+	68	8
+	+	69	24
+	+	70	24
+	+	71	24
+	+	72	24
+	+	73	24
+	+	74	22
+	+	73	22
+	+	72	22
+	+	70	2
+	+	69	2
+	+	75	0
+	+	79	24
+	+	79	8
+	+	79	2
+	+	79	22
+	+	79	0
+	+	79	8
+	+	80	28
+	+	81	28
+	+	82	28
+	+	83	28
+	+	84	28
+	+	85	26
+	+	84	26
+	+	83	26
+	+	82	26
+	+	81	2
+	+	80	2
+	+	86	0
+	+	87	8
+	+	87	24
+	+	87	22
+	+	87	2
+	+	79	0
+	+	68	0
+	+	57	25
+	+	58	25
+	+	59	25
+	+	60	25
+	+	61	25
+	+	62	25
+	+	63	25
+	+	68	0
+	+	57	0
+	+	68	0
+	+	79	0
+	+	68	0
+	+	79	0
+	+	87	0
+	+	79	0
+	+	68	0
+	+	57	0
+	+	14	0
+	+	15	0
+	+	14	0
+	+	25	0
+	+	12	0
+	+	23	0
+	+	34	0
+	+	57	0
+	+	14	0
+	+	57	0
+	+	55	0
+	+	66	0
+	+	77	0
+	+	87	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/c_c++/gscales/openScales.txt
+	*	1605206956	0
+	"	11	0
+	.	1	1
+	+	121	22
+	+	133	25
+	+	133	26
+	+	44	0
+	+	44	23
+	+	55	0
+	+	55	15
+	+	55	16
+	+	66	16
+	+	66	0
+	+	77	19
+	+	77	0
+	+	88	15
+	+	88	0
+	+	99	17
+	+	99	0
+	+	110	16
+	+	110	0
+	+	121	16
+	+	121	0
+	+	133	0
+	+	133	18
+	+	133	21
+	+	133	24
+	+	12	0
+	+	2	0
+	+	12	0
+	+	1	59
+	+	2	59
+	+	3	0
+	+	3	59
+	+	4	59
+	+	5	59
+	+	6	59
+	+	7	59
+	+	8	59
+	+	9	59
+	+	10	59
+	+	12	59
+	+	13	59
+	+	21	59
+	+	33	0
+	+	23	59
+	+	24	59
+	+	32	59
+	+	35	59
+	+	43	59
+	+	46	59
+	+	54	59
+	+	57	59
+	+	65	59
+	+	68	59
+	+	76	59
+	+	79	59
+	+	87	59
+	+	90	59
+	+	98	59
+	+	101	59
+	+	110	0
+	+	101	59
+	+	110	0
+	+	109	59
+	+	112	59
+	+	120	59
+	+	123	59
+	+	131	59
+	+	3	0
+	+	12	0
+	+	22	0
+	+	33	0
+	+	44	0
+	+	55	0
+	+	66	0
+	+	77	0
+	+	88	0
+	+	99	0
+	+	110	0
+	+	121	0
+	+	133	0
+	+	14	0
+	+	25	0
+	+	36	0
+	+	47	0
+	+	58	0
+	+	69	0
+	+	80	0
+	+	91	0
+	+	102	0
+	+	113	0
+	+	124	0
+	+	1	1
+
+> /mnt/Datos/usuarios/metal/Documentos/ruoutine.txt
+	*	1605164420	0
+	"	49	2
+	^	41	22
+	.	58	14
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	13	0
+	+	12	16
+	+	13	10
+	+	20	4
+	+	29	0
+	+	27	4
+	+	34	4
+	+	12	25
+	+	47	3
+	+	43	1
+	+	44	0
+	+	45	0
+	+	46	0
+	+	44	4
+	+	45	4
+	+	46	4
+	+	47	0
+	+	42	25
+	+	47	27
+	+	48	21
+	+	49	34
+	+	13	7
+	+	20	5
+	+	27	5
+	+	34	0
+	+	12	19
+	+	14	13
+	+	43	27
+	+	44	7
+	+	45	7
+	+	46	7
+	+	44	27
+	+	45	27
+	+	46	27
+	+	54	20
+	+	58	13
+	+	41	27
+	+	9	19
+	+	49	29
+	+	42	19
+	+	41	21
+	+	10	19
+	+	87	0
+	+	1	10
+	+	2	9
+	+	3	0
+	+	8	0
+	+	3	18
+	+	4	23
+	+	5	23
+	+	6	21
+	+	7	21
+	+	44	19
+	+	45	19
+	+	46	19
+	+	5	19
+	+	6	19
+	+	7	19
+	+	3	29
+	+	42	0
+	+	43	23
+	+	44	21
+	+	45	21
+	+	46	21
+	+	54	3
+	+	55	3
+	+	56	3
+	+	57	4
+	+	59	3
+	+	60	3
+	+	61	3
+	+	58	0
+	+	50	0
+	+	49	39
+	+	41	21
+	+	54	14
+	+	58	14
+
+> /mnt/Datos/usuarios/metal/Documentos/warmup.txt
+	*	1605159046	0
+	"	21	0
+
+> /usr/share/vim/vim81/doc/repeat.txt
+	*	1605136369	0
+	"	49	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/c_c++/gscales/call.sh
+	*	1605135518	0
+	"	59	13
+	^	59	14
+	.	59	13
+	+	2	13
+	+	3	12
+	+	4	12
+	+	1	12
+	+	2	12
+	+	1	13
+	+	2	13
+	+	3	12
+	+	4	12
+	+	3	13
+	+	4	13
+	+	1	12
+	+	2	12
+	+	1	13
+	+	2	13
+	+	3	12
+	+	4	12
+	+	3	13
+	+	4	13
+	+	1	12
+	+	2	12
+	+	1	13
+	+	2	13
+	+	3	12
+	+	4	12
+	+	3	13
+	+	4	13
+	+	1	12
+	+	2	12
+	+	3	12
+	+	4	12
+	+	3	0
+	+	1	12
+	+	2	12
+	+	1	13
+	+	2	13
+	+	3	12
+	+	4	12
+	+	6	13
+	+	7	13
+	+	8	13
+	+	9	13
+	+	11	12
+	+	12	12
+	+	11	13
+	+	12	13
+	+	13	12
+	+	14	12
+	+	13	13
+	+	14	13
+	+	16	12
+	+	17	12
+	+	16	13
+	+	17	13
+	+	18	12
+	+	19	12
+	+	21	13
+	+	22	13
+	+	23	13
+	+	24	13
+	+	26	12
+	+	27	12
+	+	28	12
+	+	29	12
+	+	28	13
+	+	29	13
+	+	31	13
+	+	32	13
+	+	33	13
+	+	34	13
+	+	36	12
+	+	37	12
+	+	36	13
+	+	37	13
+	+	38	13
+	+	39	13
+	+	38	12
+	+	39	12
+	+	41	12
+	+	42	12
+	+	41	13
+	+	42	13
+	+	43	12
+	+	44	12
+	+	46	13
+	+	47	13
+	+	48	13
+	+	49	13
+	+	51	12
+	+	52	12
+	+	51	13
+	+	52	13
+	+	53	12
+	+	54	12
+	+	53	13
+	+	54	13
+	+	56	13
+	+	57	13
+	+	58	13
+	+	59	13
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/ritmo.ly
+	*	1604640846	0
+	"	48	0
+	^	27	1
+	.	46	65
+	+	14	0
+	+	28	0
+	+	16	8
+	+	14	4
+	+	7	4
+	+	14	0
+	+	16	8
+	+	14	8
+	+	12	0
+	+	13	0
+	+	14	0
+	+	10	6
+	+	13	78
+	+	14	0
+	+	13	34
+	+	14	5
+	+	28	64
+	+	14	0
+	+	16	24
+	+	28	65
+	+	12	22
+	+	12	15
+	+	13	15
+	+	12	10
+	+	13	15
+	+	28	63
+	+	12	0
+	+	14	0
+	+	16	0
+	+	28	0
+	+	16	0
+	+	28	33
+	+	3	0
+	+	2	17
+	+	28	0
+	+	16	1
+	+	28	0
+	+	16	75
+	+	46	63
+	+	11	0
+	+	18	0
+	+	16	147
+	+	18	0
+	+	16	0
+	+	46	63
+	+	16	0
+	+	15	16
+	+	46	63
+	+	17	0
+	+	19	0
+	+	21	0
+	+	46	65
+	+	31	0
+	+	36	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	39	0
+	+	45	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	24	89
+	+	25	2
+	+	26	0
+	+	45	65
+	+	46	65
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	15	0
+	+	46	65
+
+> /mnt/Datos/usuarios/metal/Descargas/conhttp.sh
+	*	1604040521	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/ct.ly
+	*	1603767433	0
+	"	5	0
+	.	110	0
+	+	98	0
+	+	45	0
+	+	47	7
+	+	50	71
+	+	52	14
+	+	93	2
+	+	65	5
+	+	52	9
+	+	56	15
+	+	52	9
+	+	54	0
+	+	56	0
+	+	52	8
+	+	54	0
+	+	56	0
+	+	54	2
+	+	56	0
+	+	62	2
+	+	65	5
+	+	62	0
+	+	48	1
+	+	59	0
+	+	61	2
+	+	87	0
+	+	83	0
+	+	95	76
+	+	97	53
+	+	28	0
+	+	27	4
+	+	29	10
+	+	31	7
+	+	33	10
+	+	35	7
+	+	37	0
+	+	38	6
+	+	40	6
+	+	42	6
+	+	44	9
+	+	46	12
+	+	48	0
+	+	49	0
+	+	51	8
+	+	53	4
+	+	55	4
+	+	58	4
+	+	60	8
+	+	27	0
+	+	29	0
+	+	31	0
+	+	33	0
+	+	35	0
+	+	37	0
+	+	39	0
+	+	41	0
+	+	43	0
+	+	45	0
+	+	47	0
+	+	49	0
+	+	51	0
+	+	35	0
+	+	38	0
+	+	40	0
+	+	42	0
+	+	44	0
+	+	46	0
+	+	49	0
+	+	51	0
+	+	53	0
+	+	55	0
+	+	58	0
+	+	60	3
+	+	64	10
+	+	66	12
+	+	71	0
+	+	70	8
+	+	72	0
+	+	64	6
+	+	66	6
+	+	72	3
+	+	76	8
+	+	79	5
+	+	81	3
+	+	84	0
+	+	86	0
+	+	84	3
+	+	86	3
+	+	92	15
+	+	93	0
+	+	96	3
+	+	15	0
+	+	16	0
+	+	22	0
+	+	17	0
+	+	15	3
+	+	17	2
+	+	122	0
+	+	123	65
+	+	110	0
+	+	103	0
+	+	110	0
+
+> ~/.bashrc
+	*	1603767259	0
+	"	63	87
+	^	62	115
+	.	63	87
+	+	98	38
+	+	85	29
+	+	99	0
+	+	59	0
+	+	67	0
+	+	68	0
+	+	69	0
+	+	80	0
+	+	60	106
+	+	60	0
+	+	65	0
+	+	65	109
+	+	67	0
+	+	67	109
+	+	67	0
+	+	61	4
+	+	64	8
+	+	65	0
+	+	67	6
+	+	66	0
+	+	67	0
+	+	66	0
+	+	61	106
+	+	63	0
+	+	61	0
+	+	63	109
+	+	64	0
+	+	63	0
+	+	64	106
+	+	63	0
+	+	64	0
+	+	62	0
+	+	57	2
+	+	62	107
+	+	62	0
+	+	63	0
+	+	62	0
+	+	63	87
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/Revelation.ly
+	*	1603636594	0
+	"	45	0
+	.	56	0
+	+	33	0
+	+	34	36
+	+	37	9
+	+	36	107
+	+	37	0
+	+	39	0
+	+	37	22
+	+	38	0
+	+	39	0
+	+	43	56
+	+	41	57
+	+	40	6
+	+	42	49
+	+	28	0
+	+	27	1
+	+	51	2
+	+	49	25
+	+	50	10
+	+	49	8
+	+	27	10
+	+	1	7
+	+	16	4
+	+	48	0
+	+	16	31
+	+	16	0
+	+	27	0
+	+	16	3
+	+	17	6
+	+	18	6
+	+	48	0
+	+	19	0
+	+	20	9
+	+	26	0
+	+	21	0
+	+	26	0
+	+	22	0
+	+	23	0
+	+	24	11
+	+	25	2
+	+	12	18
+	+	48	0
+	+	49	0
+	+	30	11
+	+	11	13
+	+	9	9
+	+	10	12
+	+	9	0
+	+	30	0
+	+	9	0
+	+	30	0
+	+	35	0
+	+	9	0
+	+	13	12
+	+	3	26
+	+	56	11
+	+	56	25
+	+	35	0
+	+	56	11
+	+	58	0
+	+	57	0
+	+	58	0
+	+	56	19
+	+	45	0
+	+	56	11
+	+	60	0
+	+	67	0
+	+	56	11
+	+	47	0
+	+	50	0
+	+	13	0
+	+	56	11
+	+	13	0
+	+	12	27
+	+	13	0
+	+	14	0
+	+	15	0
+	+	13	2
+	+	14	2
+	+	15	2
+	+	71	65
+	+	72	63
+	+	72	65
+	+	12	14
+	+	50	0
+	+	51	0
+	+	52	0
+	+	50	0
+	+	56	11
+	+	57	0
+	+	56	0
+
+> /etc/pulse/default.pa
+	*	1603578281	0
+	"	33	0
+	^	33	1
+	.	33	0
+	+	33	0
+
+> /mnt/Datos/usuarios/metal/Documentos/prud_url.txt
+	*	1603511865	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/figuras.ly
+	*	1603245354	0
+	"	24	1
+	^	25	77
+	.	24	45
+	+	16	0
+	+	16	3
+	+	16	4
+	+	16	5
+	+	16	6
+	+	16	4
+	+	1	15
+	+	16	0
+	+	26	0
+	+	26	27
+	+	1	17
+	+	26	19
+	+	16	0
+	+	26	0
+	+	26	3
+	+	26	6
+	+	26	1
+	+	26	2
+	+	26	4
+	+	26	8
+	+	26	16
+	+	26	20
+	+	26	7
+	+	26	6
+	+	26	5
+	+	26	0
+	+	26	5
+	+	26	0
+	+	26	7
+	+	26	0
+	+	26	5
+	+	26	2
+	+	26	0
+	+	17	0
+	+	12	0
+	+	17	24
+	+	17	25
+	+	12	1
+	+	13	0
+	+	17	91
+	+	18	1
+	+	18	26
+	+	18	51
+	+	26	1
+	+	18	13
+	+	18	38
+	+	18	63
+	+	18	14
+	+	18	39
+	+	18	64
+	+	18	14
+	+	18	39
+	+	18	64
+	+	18	75
+	+	26	0
+	+	18	0
+	+	17	83
+	+	18	83
+	+	17	50
+	+	17	75
+	+	18	25
+	+	18	50
+	+	18	75
+	+	26	0
+	+	17	90
+	+	18	90
+	+	17	83
+	+	18	83
+	+	26	0
+	+	20	0
+	+	19	0
+	+	20	79
+	+	17	0
+	+	18	0
+	+	20	95
+	+	20	117
+	+	20	0
+	+	22	23
+	+	23	0
+	+	26	0
+	+	23	0
+	+	24	57
+	+	29	0
+	+	24	48
+	+	20	0
+	+	17	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	25	76
+	+	24	45
+	a	25	76
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/figs.ly
+	*	1603244654	0
+	"	84	0
+	^	82	22
+	.	5	0
+	+	1	0
+	+	85	0
+	+	5	0
+	+	1	4
+	+	5	0
+	+	1	0
+	+	5	5
+	+	9	0
+	+	13	4
+	+	17	3
+	+	21	3
+	+	25	5
+	+	29	0
+	+	33	4
+	+	37	0
+	+	81	2
+	+	1	5
+	+	5	5
+	+	9	4
+	+	13	4
+	+	17	3
+	+	21	3
+	+	25	5
+	+	29	5
+	+	33	4
+	+	37	4
+	+	38	1
+	+	41	6
+	+	42	3
+	+	46	3
+	+	50	3
+	+	54	3
+	+	58	3
+	+	62	3
+	+	66	3
+	+	70	3
+	+	74	4
+	+	78	4
+	+	81	0
+	+	1	0
+	+	9	0
+	+	17	0
+	+	25	0
+	+	33	0
+	+	41	0
+	+	5	0
+
+> /mnt/Datos/usuarios/metal/Documentos/hm.txt
+	*	1603236283	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/axteltv.txt
+	*	1603220691	0
+	"	6	11
+	^	6	12
+	.	6	11
+	+	5	10
+	+	6	11
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/make: *** [Makefile
+	*	1603122751	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/scm/g.scm
+	*	1603002222	0
+	"	161	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/scm/lib_acordes.scm
+	*	1603002211	0
+	"	272	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/__Tagbar__.1
+	*	1602893056	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/err.txt
+	*	1602873131	0
+	"	75	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/Revelation.
+	*	1602782288	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/linuxacademy.txt
+	*	1602301340	0
+	"	7	19
+	^	7	20
+	.	7	19
+	+	12	0
+	+	6	13
+	+	11	0
+	+	7	19
+	+	10	0
+	+	7	19
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/ritmo.
+	*	1602125483	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/Crazy_Train.ly
+	*	1601791125	0
+	"	62	0
+	.	6	12
+	+	6	12
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/Vals_Venezolano_2.ly
+	*	1601790789	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/Goodbye_To_Romance.ly
+	*	1601355500	0
+	"	1	0
+
+> ~/.vnc/xstartup
+	*	1601320145	0
+	"	1	0
+	^	9	0
+	.	2	0
+	+	1	0
+	+	9	0
+	+	1	11
+	+	9	11
+	+	9	0
+	+	2	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/Paganini_Grande_Sonata.ly
+	*	1601318775	0
+	"	121	4
+
+> ~/uno.ily
+	*	1601318573	0
+	"	81	1
+	.	8	15
+	+	8	15
+
+> ~/__Tagbar__.1
+	*	1601318567	0
+	"	1	0
+	.	30	0
+	+	30	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/scm/crenot.scm
+	*	1601317954	0
+	"	1	0
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/c_c++/gscales/gscales.c
+	*	1601317938	0
+	"	806	0
+	^	164	37
+	.	70	20
+	+	70	20
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/c_c++/gscales/__Tagbar__.1
+	*	1601317920	0
+	"	64	4
+	.	71	0
+	+	71	0
+
+> /var/lib/vim/addons/doc/airline.txt
+	*	1601306739	0
+	"	1553	1
+
+> /usr/share/vim/vim81/doc/mbyte.txt
+	*	1601305508	0
+	"	1470	1
+
+> /usr/share/vim/vim81/doc/tagsrch.txt
+	*	1601305455	0
+	"	687	0
+
+> /usr/share/vim/vim81/doc/eval.txt
+	*	1601305436	0
+	"	3540	0
+
+> /usr/share/vim/vim81/doc/options.txt
+	*	1601305424	0
+	"	6086	1
+
+> /usr/share/vim/vim81/doc/various.txt
+	*	1601305345	0
+	"	749	1
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/uno.ily
+	*	1601263077	0
+	"	8	12
+	^	39	3
+	.	8	12
+	+	39	0
+	+	8	12
+
+> /mnt/Datos/usuarios/metal/Descargas/lilypond-2.18.2/vim/vimrc
+	*	1601254357	0
+	"	1	0
+
+> /usr/share/vim/vim81/doc/syntax.txt
+	*	1601187601	0
+	"	4682	3
+
+> /mnt/Datos/usuarios/metal/Documentos/fuentes/lilypond/ly/Courante.ly
+	*	1601187355	0
+	"	1	0
+
+> ~/Highlight test
+	*	1601187345	0
+	"	421	0
+	^	421	56
+	.	49	0
+	+	49	0
+
+> /usr/share/vim/vim81/syntax/colortest.vim
+	*	1601187313	0
+	"	53	0
+
+> /usr/share/vim/vim81/doc/starting.txt
+	*	1601186955	0
+	"	821	1
+
+> /usr/share/lilypond/2.18.2/vim/ftplugin/lilypond.vim
+	*	1601186285	0
+	"	39	0
+
+> /usr/share/lilypond/2.18.2/vim/compiler/lilypond.vim
+	*	1601186282	0
+	"	1	0

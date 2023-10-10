@@ -1,0 +1,147 @@
+Xsession: X session started for metal at lun dic 28 10:18:23 CST 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/metal/.Xauthority
+localuser:metal being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=metal
+dbus-update-activation-environment: setting LANGUAGE=es_MX:es
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting TEMPDIR=/tmp/user/1000
+dbus-update-activation-environment: setting HOME=/home/metal
+dbus-update-activation-environment: setting QT4_IM_MODULE=ibus
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting TMPDIR=/tmp/user/1000
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=metal
+dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
+dbus-update-activation-environment: setting TEMP=/tmp/user/1000
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=es_MX.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting TMP=/tmp/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/metal/.Xauthority
+dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/metal
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_IM_MODULE=ibus
+dbus-update-activation-environment: setting PWD=/home/metal
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=ibus
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 10:18:31.163: SSH authentication agent is already running
+gpg-agent[2372]: ATENCIÓN: "--write-env-file" es una opción obsoleta - no tiene efecto
+gpg-agent: ya hay un agente gpg ejecutándose - no se inicia otro
+
+(xfce4-session:2309): xfce4-session-WARNING **: 10:18:31.167: gpg-agent returned no PID in the variables
+
+(process:2438): GLib-GObject-WARNING **: 10:18:34.256: invalid (NULL) pointer instance
+
+(process:2438): GLib-GObject-CRITICAL **: 10:18:34.256: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(xfce4-session:2309): xfce4-session-WARNING **: 10:18:34.635: Unable to launch "/usr/lib/notify-osd/notify-osd" (specified by autostart/notify-osd.desktop): Falló al ejecutar el proceso hijo «/usr/lib/notify-osd/notify-osd» (No existe el fichero o el directorio)
+GDBus.Error:org.freedesktop.DBus.GLib.ErrorError: Method invoked for RegisterStatusNotifierHost returned FALSE but did not set error
+
+(process:2438): GLib-GIO-CRITICAL **: 10:18:34.757: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2438): GLib-CRITICAL **: 10:18:34.757: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:18:34.757: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:18:34.757: g_variant_new_string: assertion 'string != NULL' failed
+Can't bind to ldap server ldap: Invalid argument
+
+(process:2438): GLib-GIO-CRITICAL **: 10:18:35.716: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2438): GLib-CRITICAL **: 10:18:35.716: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:18:35.716: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:18:35.716: g_variant_new_string: assertion 'string != NULL' failed
+
+(wrapper-2.0:2444): Gtk-WARNING **: 10:18:42.153: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+"No carrier"
+error: : cannot open
+error: : cannot open
+error: : cannot open
+[2817:2817:1228/102016.472297:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+(process:2438): GLib-GIO-CRITICAL **: 10:20:44.333: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2438): GLib-CRITICAL **: 10:20:44.333: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:20:44.333: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:20:44.333: g_variant_new_string: assertion 'string != NULL' failed
+** Message: 10:20:48.925: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2998): WARNING **: 10:20:48.926: XDG_TEMPLATES_DIR is set to invalid path, ignoring it
+
+(pcmanfm:2998): Gdk-WARNING **: 10:20:49.257: gdk_window_set_icon_list: icons too large
+gnumeric 'file:///home/metal/Documentos/distros.ods' 
+Unexpected element 'loext:fill-character' in state : 
+	document-styles -> styles -> currency-style
+Unexpected element 'loext:fill-character' in state : 
+	document-styles -> styles -> currency-style
+Unexpected element 'loext:fill-character' in state : 
+	document-styles -> styles -> currency-style
+Unexpected element 'loext:fill-character' in state : 
+	document-styles -> styles -> currency-style
+Unexpected element 'loext:fill-character' in state : 
+	document-styles -> styles -> currency-style
+Unexpected element 'loext:fill-character' in state : 
+	document-styles -> styles -> currency-style
+
+(gnumeric:3204): GLib-GObject-CRITICAL **: 10:20:59.888: Object class GnmFontButton doesn't implement property 'level' from interface 'GtkFontChooser'
+
+(gnumeric:3204): GLib-GObject-CRITICAL **: 10:20:59.888: Object class GnmFontButton doesn't implement property 'language' from interface 'GtkFontChooser'
+
+(gnumeric:3204): GLib-GObject-CRITICAL **: 10:20:59.888: Object class GnmFontButton doesn't implement property 'font-features' from interface 'GtkFontChooser'
+
+(process:2438): GLib-GIO-CRITICAL **: 10:21:44.971: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2438): GLib-CRITICAL **: 10:21:44.971: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:21:44.971: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:21:44.971: g_variant_new_string: assertion 'string != NULL' failed
+
+(pcmanfm:2998): Gdk-WARNING **: 10:27:36.042: gdk_window_set_icon_list: icons too large
+
+(process:2438): GLib-GIO-CRITICAL **: 10:27:37.040: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2438): GLib-CRITICAL **: 10:27:37.040: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:27:37.040: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:27:37.040: g_variant_new_string: assertion 'string != NULL' failed
+localuser:root being added to access control list
+
+(process:2438): GLib-GIO-CRITICAL **: 10:28:06.884: g_settings_get_value: assertion 'G_IS_SETTINGS (settings)' failed
+
+(process:2438): GLib-CRITICAL **: 10:28:06.884: g_variant_get_string: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:28:06.884: g_variant_unref: assertion 'value != NULL' failed
+
+(process:2438): GLib-CRITICAL **: 10:28:06.884: g_variant_new_string: assertion 'string != NULL' failed
+======================
+libparted : 3.2
+======================
+localuser:root being removed from access control list
+
+(xfce4-session:2309): Gtk-CRITICAL **: 11:18:33.658: IA__gtk_widget_set_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(Thunar:2376): Gtk-CRITICAL **: 11:18:35.073: gtk_main_quit: assertion 'main_loops != NULL' failed
+
+(xfce4-session:2309): GLib-GObject-CRITICAL **: 11:18:35.253: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
