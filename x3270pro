@@ -1,0 +1,94 @@
+! x3270 profile
+! File created Tue Apr  1 16:16:45 2014 by x3270 v3.3.4p6 Wed Dec  9 22:25:17 PST 2009 doctor
+! This file overrides xrdb and .Xdefaults.
+! To skip reading this file, set NOX3270PRO in the environment.
+!
+! File updated Wed Apr  2 08:38:16 2014 by x3270 v3.3.4p6 Wed Dec  9 22:25:17 PST 2009 doctor
+! emulator font  (-efont)
+!x3270.emulatorFont: 3270-20
+!x3270.emulatorFont: -misc-fixed-medium-r-normal--20-200-75-75-c-100-iso10646-1
+!x3270.emulatorFont: -xos4-terminus-medium-r-normal--20-200-72-72-c-100-iso8859-1
+!x3270.emulatorFont: -xos4-terminus-medium-r-normal--22-220-72-72-c-110-iso8859-1
+!x3270.emulatorFont: -xos4-terminus-medium-r-normal--24-240-72-72-c-120-iso8859-1
+!x3270.emulatorFont: -xos4-terminus-medium-r-normal--28-280-72-72-c-140-iso8859-1
+!x3270.emulatorFont: -xos4-terminus-medium-r-normal--32-320-72-72-c-160-iso8859-1
+!- XM730323:		script(scripts/log400.sh, XM730323) \n\
+!
+!x3270.emulatorFont: -xos4-terminus-bold-r-normal--20-200-72-72-c-100-iso8859-1
+!x3270.emulatorFont: -xos4-terminus-bold-r-normal--22-220-72-72-c-110-iso8859-1
+x3270.emulatorFont: -xos4-terminus-bold-r-normal--24-240-72-72-c-120-iso8859-1
+!x3270.emulatorFont: -xos4-terminus-bold-r-normal--28-280-72-72-c-140-iso8859-1
+!x3270.emulatorFont: -xos4-terminus-bold-r-normal--32-320-72-72-c-160-iso8859-1
+x3270.showTiming: true
+x3270.menuBar: true
+x3270.scrollBar: false
+x3270.crosshair: true
+x3270.marginedPaste: true
+!x3270.hostsFile: .conexiones
+x3270.hostsFile: $HOME/.conexiones
+x3270.model: 2
+x3270.keymap.5250: \
+	Meta<Key>F1:		PF(1)\n\
+	Shift<Key>F1:		PF(13)\n\
+	Shift<Key>F2:		PF(14)\n\
+	Shift<Key>F3:		PF(15)\n\
+	Shift<Key>F4:		PF(16)\n\
+	Shift<Key>F5:		PF(17)\n\
+	Shift<Key>F6:		PF(18)\n\
+	Shift<Key>F7:		PF(19)\n\
+	Shift<Key>F8:		PF(20)\n\
+	Shift<Key>F9:		PF(21)\n\
+	Shift<Key>F10:		PF(22)\n\
+	Shift<Key>F11:		PF(23)\n\
+	Shift<Key>F12:		PF(24)\n\
+	<Key>F1:		PA(1) PF(1)\n\
+	<Key>F2:		PA(1) PF(2)\n\
+	<Key>F3:		PA(1) PF(3)\n\
+	<Key>F4:		PA(1) PF(4)\n\
+	<Key>F5:		PA(1) PF(5)\n\
+	<Key>F6:		PA(1) PF(6)\n\
+	<Key>F7:		PA(1) PF(7)\n\
+	<Key>F8:		PA(1) PF(8)\n\
+	<Key>F9:		PA(1) PF(9)\n\
+	<Key>F10:		PA(1) PF(10)\n\
+	<Key>F11:		PA(1) PF(11)\n\
+	<Key>F12:		PA(1) PF(12)\n\
+	<Key>Return:		Enter()\n\
+	Shift<Key>Home:		PF(5)\n\
+	<Key>Control_L:		Reset() PF(10)\n\
+	<Key>Control_R:		Enter()\n\
+	Shift<Key>Escape:	PF(11)\n\
+	<Key>Escape:		PF(9)\n\
+	<Key>Pause:		PF(11)\n\
+	<Key>Print:		PF(4)\n\
+	<Key>Prior:		PF(7)\n\
+	<Key>Next:		PF(8)\n\
+	<Key>Scroll_Lock:	PF(1)\n\
+	<Key>KP_Enter:		Enter()\n
+!x3270.keymap: alt,5250
+x3270.keymap: 5250
+x3270.charset: us-intl
+x3270.blankFill: true
+x3270.macros.192.168.56.21:\
+Usuario.:		info("Separador") \n\
+- XM731011:		script(scripts/log400.sh, XM731011) \n\
+- IUT660BAT:	script(scripts/log400.sh, IUT660BAT) \n\
+- IUT660:		script(scripts/log400.sh, IUT660) \n\
+- IST660:		script(scripts/log400.sh, IST660) \n\
+- IMO660:		script(scripts/log400.sh, IMO660) \n\
+- IPR660:		script(scripts/log400.sh, IPR660) \n\
+- otro:			script(scripts/log400.sh) \n\
+Fuente/WOCMP.:	info("Separador") \n\
+- Compila:		script(scripts/compila.sh) \n\
+- Compila(PR):	script(scripts/compilaPR.sh) \n\
+- Ejecuta:		script(scripts/ejecuta.sh) \n\
+SQL.:			info("Separador") \n\
+- WOSUPP:		script(scripts/runsqlstm.sh) \n\
+- STRQMQRY:		script(scripts/strqmqry.sh) \n
+x3270.macros.192.168.50.21:\
+Fuente/WOCMP.:	info("Separador") \n\
+- Compila:		script(scripts/compila.sh) \n\
+- Ejecuta:		script(scripts/ejecuta.sh) \n\
+SQL.:			info("Separador") \n\
+- WOSUPP:		script(scripts/runsqlstm.sh) \n\
+- STRQMQRY:		script(scripts/strqmqry.sh) \n

@@ -1,0 +1,61 @@
+--langdef=Cob400
+--langmap=Cob400:.cbl.cpy
+--regex-Cob400=/^.{6}\ +[0-9][0-9]\ +([a-zA-Z0-9-]+)\./\1/g,Variable-grupo/e
+--regex-Cob400=/^.{6}\ +88\ +([a-zA-Z0-9-]+)\ +VALUE\ +.+\./\1/s,Switch/e
+--regex-Cob400=/^.{6}\ +[0-9][0-9]\ +([a-zA-Z0-9]+-[a-zA-Z0-9-]+)\ +PIC\ +.+$/\1/v,Variable-dato/e
+--regex-Cob400=/^.{6}\ +(IDENTIFICATION)\ +DIVISION\ *\./1\ \1/d,Division/e
+--regex-Cob400=/^.{6}\ +(ENVIRONMENT)\ +DIVISION\ *\./2\ \1/d,Division/e
+--regex-Cob400=/^.{6}\ +(DATA)\ +DIVISION\ *\./3\ \1/d,Division/e
+--regex-Cob400=/^.{6}\ +(PROCEDURE)\ +DIVISION\ *.+$/4\ \1/d,Division/e
+--regex-Cob400=/^.{6}\ +COPY\ +([a-zA-Z0-9]{4,8})\ .+$/\1/c,Copy/e
+--regex-Cob400=/^.{6}\ +COPY\ +([a-zA-Z0-9]{4,8})\.$/\1/c,Copy/e
+--regex-Cob400=/^.{6}\ +EXEC\ +SQL\ +INCLUDE\ +([A-Z0-9a-z]+)\ +END-EXEC.\ *$/\1/i,Include/e
+
+
+--regex-Cob400=/^.{6}\ ([A-Z0-9-]+[A-Z0-9][A-Z0-9])\.$/\1/p,Parrafo/e
+--regex-Cob400=/^.{6}\ ([A-Z0-9-]+[A-Z0-9][A-Z0-9])\..*[A-Z0-9]$/\1/p,Parrafo/e
+
+
+--regex-Cob400=/^.{6}\ +MOVE\ +'*([a-zA-Z0-9]+)'*\ +TO\ +WPGWS-CALL-PGM-ID\..*$/\1/l,Call/e
+--regex-Cob400=/^.{6}\ +MOVE\ +'*([a-zA-Z0-9]+)'*\ +TO\ +WS-ING-PGM-NAME\..*$/\1/l,Call/e
+--regex-Cob400=/^.{6}\ +MOVE\ +'*([a-zA-Z0-9]+)'*\ +TO\ +WSOKT-ADDR-SET-PGM\..*$/\1/l,Call/e
+--regex-Cob400=/^.{6}\ +CALL\ +'*([a-zA-Z0-9]+)'*\ .+$/\1/l,Call/e
+--regex-Cob400=/^.{6}\ +([a-zA-Z-]+-[a-zA-Z0-9-]+)\ +SECTION\.$/\1/e,Seccion/e
+--regex-Cob400=/^.{6}\ +([a-zA-Z]+)\ +SECTION\.$/\1/e,Seccion/e
+--regex-Cob400=/^.{6}\ +FETCH\ +([a-zA-Z0-9_]+)$/Fetch \1/r,Cursor/e
+--regex-Cob400=/^.{6}\ +DECLARE\ +([a-zA-Z0-9_]+)\ +CURSOR\ +.+$/Declare \1/r,Cursor/e
+--Cob400-kinds=+g+v+d+c+i+s+p+l+e+r
+
+--langmap=cobol:.cob
+
+--langmap=tex:.tex.latex
+--regex-tex=/^\\section.*{(.+)}.*$/\1/1,Seccion(1)/e
+--regex-tex=/^\t+\\section.*{(.+)}.*$/\1/1,Seccion(1)/e
+--regex-tex=/^\ +\\section.*{(.+)}.*$/\1/1,Seccion(1)/e
+
+--regex-tex=/^\\subsection.*{(.+)}.*$/\1/2,Seccion(2)/e
+--regex-tex=/^\t+\\subsection.*{(.+)}.*$/\1/2,Seccion(2)/e
+--regex-tex=/^\ +\\subsection.*{(.+)}.*$/\1/2,Seccion(2)/e
+
+--regex-tex=/^\\subsubsection.*{(.+)}.*$/\1/3,Seccion(3)/e
+--regex-tex=/^\t+\\subsubsection.*{(.+)}.*$/\1/3,Seccion(3)/e
+--regex-tex=/^\ +\\subsubsection.*{(.+)}.*$/\1/3,Seccion(3)/e
+--regex-tex=/^\\subsubsection.*{(.+)}.*$/\1/3,Seccion(3)/e
+--regex-tex=/^\t+\\subsubsection.*{(.+)}.*$/\1/3,Seccion(3)/e
+--regex-tex=/^\ +\\subsubsection.*{(.+)}.*$/\1/3,Seccion(3)/e
+
+--regex-tex=/^\\usepackage\ *{(.+)}.*$/\1/Q,Paquetes/e
+--regex-tex=/^\\usepackage\ *\[.+\]{(.+)}.*$/\1/Q,Paquetes/e
+--regex-tex=/^\t+\\usepackage\ *{(.+)}.*$/\1/Q,Paquetes/e
+--regex-tex=/^\t+\\usepackage\ *\[.+\]{(.+)}.*$/\1/Q,Paquetes/e
+--regex-tex=/^\ +\\usepackage\ *{(.+)}.*$/\1/Q,Paquetes/e
+--regex-tex=/^\ +\\usepackage\ *\[.+\]{(.+)}.*$/\1/Q,Paquetes/e
+
+--regex-tex=/^\\caption.*{(.+)}$/\1/E,Etiquetas/e
+--regex-tex=/^\t+\\caption.*{(.+)}$/\1/E,Etiquetas/e
+--regex-tex=/^\ +\\caption.*{(.+)}$/\1/E,Etiquetas/e
+
+--regex-tex=/^\\includegraphics\[.+\]{(.+)}$/\1/I,Imágenes/e
+--regex-tex=/^\t+\\includegraphics\[.+\]{(.+)}$/\1/I,Imágenes/e
+--regex-tex=/^\ +\\includegraphics\[.+\]{(.+)}$/\1/I,Imágenes/e
+

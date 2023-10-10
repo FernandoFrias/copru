@@ -1,0 +1,22 @@
+Producto   
+
+Clave:       ####
+Nuevo:       XXXXXXXXXX
+             XXXXXXXXXX
+Descripcion: ********************
+Cantidad: 99 Precio: -999999.9999 Otro 999.99
+Alterno:       XXXXXXXXXXXXXXX   Aux: XXXXXX
+               XXXXXXXXXXXXXXX        XXXXXX
+mas: -9 otro 9.9 campo -9.9
+Viejo: XXXXXX
+       XXXXXX  Actual: XXXXXX
+                       XXXXXX
+
+Comentarios:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+disponibilidad: -99999
+Otro ###
+

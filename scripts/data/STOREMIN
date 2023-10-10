@@ -1,0 +1,17 @@
+     *--------------------------------------------------------------------
+     *
+     * Extract some data from input file
+     *
+     * for BATCH, DBPARMS, DBSRCE, QCBLLESRC, SRCE:
+     *     Last Source Update=428 433
+     *     Last Update Time  =434 439
+     * for DATA, PARM:
+     *     Last Change Date  =415 420
+     *     Last Change Time  =421 426
+     *
+     *--------------------------------------------------------------------
+     HSORTR    22A         
+     FNC 164 173                       Membre Name
+     FNC 428 433                       Last(Source Update, Change Date)
+     FNC 434 439                       Last(Update Time, Change Time)
+     FDC

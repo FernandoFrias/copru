@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#ftp -ni HOST <<END_SCRIPT
+ftp -ni HOST <<END_SCRIPT > logftp.txt
+quote user USUARIO
+quote pass PASS

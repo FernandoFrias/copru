@@ -1,0 +1,12 @@
+quit
+END_SCRIPT
+
+if [[ -f logftp.txt ]]; then
+	linerr=$(grep 'rejected\|not found' logftp.txt)
+	rm logftp.txt
+	if [[ -n $linerr ]]; then
+		echo $linerr
+		exit 1
+	fi
+fi
+

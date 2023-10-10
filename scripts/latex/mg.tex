@@ -1,0 +1,59 @@
+\documentclass[letterpaper,landscape]{article}
+\usepackage[letterpaper,left=0.5cm,right=0.5cm,top=3.7cm,bottom=1.0cm,headsep=0.2cm,headheight=3.5cm,footskip=0.5cm]{geometry}
+\input{../scripts/latex/pre.tex}
+
+\fancyhead[L]{\includegraphics[totalheight=1.5cm]{../scripts/latex/logo.png}\\[0.5cm]}
+\fancyhead[C]{\small{\textbf{\sffamily{
+\input{titulo.tex}
+}}}}
+\fancyhead[R]{\small{\textbf{\sffamily{Página\ \thepage\ de\ \pageref{LastPage}}}}\\[1.0cm]}
+\fancyfoot[L]{\small{\textbf{\sffamily{
+\input{piep.tex}
+}}}}
+\fancyfoot[R]{\small{\textbf{\sffamily{
+\input{fecha.tex}
+}}}}
+
+\newcommand{\interl}{\setlength{\baselineskip}{0.4\baselineskip}}
+\newcolumntype{A}{>{\interl\centering\arraybackslash}   m{1.5cm}}
+\newcolumntype{B}{>{\interl\centering\arraybackslash}   m{3.0cm}}
+\newcolumntype{C}{>{\interl\raggedright\arraybackslash} m{11.6cm}}
+\newcolumntype{c}{>{\interl\centering\arraybackslash}   m{11.6cm}}
+\newcolumntype{D}{>{\interl\raggedleft\arraybackslash}  m{2.7cm}}
+\newcolumntype{d}{>{\interl\centering\arraybackslash}   m{2.7cm}}
+
+\newcolumntype{E}{>{\interl\raggedleft\arraybackslash} m{14.3cm}}
+\newcolumntype{F}{>{\interl\raggedleft\arraybackslash} m{5.4cm}}
+
+\newcommand{\tA}[1]{\small{\sffamily{\textbf{#1}}}}
+\newcommand{\tB}[2]{\multicolumn{1}{#1}{\tA{#2}}}
+
+\renewcommand{\arraystretch}{0.5}
+\setlength{\tabcolsep}{0mm}
+
+\newcommand{\titulos}{
+	\bottomrule
+	\rowcolor{gray!45}
+	\tA{Fecha}&
+	\tA{Cuenta regulatoria}&
+	\tB{c}{Nombre de la cuenta}&
+	\tB{d}{Saldo Inicial}&
+	\tB{d}{{Débitos M. N.}}&
+	\tB{d}{{Créditos M. N.}}&
+	\tB{d}{Saldo Final}\\
+	\toprule
+	\endhead
+}
+
+\pagestyle{fancy}
+
+\begin{document}
+	{\fontsize{8}{24}\selectfont
+		\begin{longtable}{ABCDDDD}
+%		\begin{longtable}{|A|B|C|D|D|D|D|}
+			\titulos
+			\input{tab_mg.tex}
+		\end{longtable}
+	}
+\end{document}
+

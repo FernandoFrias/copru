@@ -1,0 +1,98 @@
+\documentclass[letterpaper,landscape]{article}
+\usepackage[letterpaper,left=0.55cm,right=0.55cm,top=2.8cm,bottom=0.8cm,headsep=0.2cm,headheight=3.0cm,footskip=0.4cm]{geometry}
+\input{../scripts/latex/pre.tex}
+
+\newcommand{\sz}{\scriptsize}
+\fancyhead[L]{\includegraphics[totalheight=1.5cm]{../scripts/latex/logo.png}\\[2mm]}
+\fancyhead[C]{\sz{\textbf{\sffamily{
+\input{titulo.tex}
+}}}}
+\fancyhead[R]{\sz{\textbf{\sffamily{P\'agina\ \thepage\ de\ \pageref{LastPage}}}}\\[1.0cm]}
+\fancyfoot[L]{\sz{\textbf{\sffamily{
+\input{piep.tex}
+}}}}
+\fancyfoot[R]{\sz{\textbf{\sffamily{
+\input{fecha.tex}
+}}}}
+
+\newcommand{\mcA}{2.2cm}
+\newcommand{\mcB}{7.0cm}
+\newcommand{\mcD}{4.0cm}
+\newcommand{\mcE}{1.0cm}
+\newcommand{\mcF}{3.0cm}
+\newcommand{\mcG}{1.3cm}
+\newcommand{\mcH}{1.2cm}
+\newcommand{\mcI}{1.0cm}
+\newcommand{\mcJ}{1.5cm}
+\newcommand{\mcs}{1mm}
+
+\newlength{\mcK}
+\setlength{\mcK}{\mcJ + \mcJ + \mcJ}
+
+\newlength{\mcL}
+\setlength{\mcL}{\mcB + \mcs + \mcD}
+
+\newlength{\mcM}
+\setlength{\mcM}{\mcI + \mcJ + \mcJ}
+
+\newcommand{\ints}{\setlength{\baselineskip}{0.4\baselineskip}}
+\newcolumntype{A}{>{\ints\centering\arraybackslash}  m{\mcA}}
+\newcolumntype{B}{>{\ints\raggedright\arraybackslash}m{\mcB}}
+\newcolumntype{b}{>{\ints\centering\arraybackslash}  m{\mcB}}
+\newcolumntype{s}{>{\ints\centering\arraybackslash}  m{\mcs}}
+\newcolumntype{D}{>{\ints\raggedright\arraybackslash}m{\mcD}}
+\newcolumntype{d}{>{\ints\centering\arraybackslash}  m{\mcD}}
+
+\newcolumntype{E}{>{\ints\raggedright\arraybackslash}m{\mcE}}
+\newcolumntype{F}{>{\ints\raggedright\arraybackslash}m{\mcF}}
+
+\newcolumntype{G}{>{\ints\centering\arraybackslash}  m{\mcG}}
+\newcolumntype{H}{>{\ints\centering\arraybackslash}  m{\mcH}}
+\newcolumntype{h}{>{\ints\centering\arraybackslash}  m{\mcH}}
+\newcolumntype{I}{>{\ints\centering\arraybackslash}  m{\mcI}}
+\newcolumntype{J}{>{\ints\raggedleft\arraybackslash} m{\mcJ}}
+\newcolumntype{j}{>{\ints\centering\arraybackslash}  m{\mcJ}}
+
+\newcolumntype{K}{>{\ints\raggedleft\arraybackslash} m{\mcK}}
+\newcolumntype{L}{>{\ints\raggedright\arraybackslash} m{\mcL}}
+\newcolumntype{M}{>{\ints\raggedleft\arraybackslash} m{\mcM}}
+
+\newcommand{\tA}[1]{\sz{\sffamily{\textbf{#1}}}}
+\newcommand{\tB}[2]{\multicolumn{1}{#1}{\tA{#2}}}
+
+\renewcommand{\arraystretch}{0.6}
+\setlength{\tabcolsep}{0mm}
+
+\newcommand{\titulos}[3]{
+	\bottomrule
+	\rowcolor{gray!45}
+	\tA{Cuenta Regulatoria}&
+	\tB{b}{Nombre del asiento}&&
+	\tB{d}{Descripci\'on del asiento}&
+	\tA{Cuenta CUSF}&
+	\tA{Nombre De La Cuenta CUSF}&
+	\tA{Fuente}&
+	\tB{h}{\makecell{Centro de\\ costos}}&
+	\tA{Moneda}&
+	\tB{j}{\makecell{D\'ebitos\\ M. O.}}&
+	\tB{j}{\makecell{Cr\'editos\\ M. O.}}&
+	\tB{j}{\makecell{D\'ebitos\\ M. N.}}&
+	\tB{j}{\makecell{Cr\'editos\\ M. N.}}\\\toprule
+	\textbf{\sffamily{Fecha:} #1}&
+	\multicolumn{3}{L}{\textbf{\sffamily{Origen:} #2}}&&&&&&&
+	\multicolumn{3}{K}{\textbf{\sffamily{N\'umero de Asiento:} #3}}\\
+	\toprule
+	\endhead
+}
+
+\pagestyle{fancy}
+
+\begin{document}
+	\setlength{\aboverulesep}{0mm}
+	\setlength{\belowrulesep}{0mm}
+	\setlength{\extrarowheight}{0mm}
+	{\fontsize{5}{15}\selectfont
+		\input{tab_as.tex}
+	}
+\end{document}
+
